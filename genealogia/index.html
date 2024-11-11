@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head lang="ru">
+	<title>index</title>
+	<meta charset="UTF-8" />
+	<script type="text/javascript">
+	
+function lang() {
+  var langs = ['ru', 'en', ];
+  var lang = navigator.languages || navigator.userLanguages || window.navigator.userLanguage;
+  var found = langs[0];
+  for (i=0; i < lang.length; i++) {
+    for (j=0; j < langs.length; j++) {
+      if (lang[i] == langs[j]) {
+        found = lang[i];
+        break;
+      };
+    };
+  };
+  location.replace("./"+found+"/index.html");
+}
+
+	</script>
+</head>
+<body  onload="lang();">
+</body>
+</html>
