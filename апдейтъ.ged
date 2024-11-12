@@ -3,9 +3,9 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 12 NOV 2024
-2 TIME 05:28:44
+2 TIME 06:51:22
 1 SUBM @SUBM@
-1 FILE /Users/Zlato4ka/Pictures/Rybakov.ged
+1 FILE /Users/Zlato4ka/Desktop/апдейтъ.ged
 1 COPR Copyright (c) 2024 .
 1 GEDC
 2 VERS 5.5.1
@@ -423,9 +423,9 @@
 4 LONG E37.617638
 1 OCCU
 2 DATE FROM 1940 TO 1963
-1 FAMC @F0005@
-2 PEDI birth
 1 FAMC @F0011@
+2 PEDI birth
+1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0004@
 1 OBJE @O0006@
@@ -433,21 +433,20 @@
 1 NOTE @N0002@
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 03:51:56
+3 TIME 06:24:29
 0 @I0011@ INDI
 1 NAME Алексей /Попов/
 2 TYPE birth
 2 GIVN Алексей
 2 SURN Попов
 1 SEX M
-1 FAMC @F0005@
-2 PEDI birth
 1 FAMC @F0011@
 2 PEDI birth
+1 FAMS @F0005@
 1 NOTE @N0003@
 1 CHAN
-2 DATE 5 JAN 2018
-3 TIME 07:27:13
+2 DATE 12 NOV 2024
+3 TIME 06:24:29
 0 @I0012@ INDI
 1 NAME Александра /Чернавская/
 2 TYPE birth
@@ -798,9 +797,10 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 OBJE @O0017@
+1 NOTE @N0033@
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 03:55:58
+3 TIME 06:24:58
 0 @I0037@ INDI
 1 NAME Елена /Сизоненко/
 2 TYPE birth
@@ -942,13 +942,13 @@
 2 DATE 23 SEP 2024
 3 TIME 23:25:52
 0 @F0005@ FAM
+1 HUSB @I0011@
 1 WIFE @I0012@
 1 CHIL @I0010@
-1 CHIL @I0011@
 1 CHIL @I0036@
 1 CHAN
 2 DATE 12 NOV 2024
-3 TIME 03:56:30
+3 TIME 06:24:29
 0 @F0006@ FAM
 1 HUSB @I0014@
 1 WIFE @I0015@
@@ -1045,7 +1045,7 @@
 1 CONC ы не убили. Сохранила только фотографию матери, вшила её в матрас. расти
 1 CONC ла брата Алексея. позже мужчина сильно старше её вычислил, что она не та
 1 CONC , за кого себя выдаёт, сватался ей, о дальнейшей судьбе не знаю
-0 @N0003@ NOTE младший брат Раисы. "женился на еврейке, объевреился"
+0 @N0003@ NOTE 
 0 @N0004@ NOTE жили в станице в Ростовской области, была Польской княгиней, похище
 1 CONC на?
 1 CONT возможно, адрес Крестьянская, 17 Белая Калитва
@@ -1136,6 +1136,7 @@
 1 CONT Люберецкая средняя школа номер 9, город Люберцы 1979-1987
 1 CONT Московское медицинское училище номер 2 им. Клары Цеткин 1988-1991
 1 CONT Московский медицинский стоматологический институт 1991-1997
+0 @N0033@ NOTE младший брат Раисы. "женился на еврейке, объевреился"
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
