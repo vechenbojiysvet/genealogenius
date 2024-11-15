@@ -3,7 +3,7 @@
 2 VERS 5.2.3
 2 NAME Gramps
 1 DATE 15 NOV 2024
-2 TIME 14:44:44
+2 TIME 16:12:06
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/Rybakov.ged
 1 COPR Copyright (c) 2024 .
@@ -99,6 +99,7 @@
 1 OBJE @O0054@
 1 OBJE @O0091@
 1 OBJE @O0029@
+1 OBJE @O0131@
 1 OBJE @O0085@
 1 OBJE @O0084@
 1 OBJE @O0089@
@@ -125,10 +126,11 @@
 1 OBJE @O0146@
 1 OBJE @O0144@
 1 OBJE @O0140@
+1 OBJE @O0105@
 1 NOTE @N0032@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:40:50
+3 TIME 15:55:41
 0 @I0003@ INDI
 1 NAME Вера /Чёрная/
 2 TYPE birth
@@ -171,12 +173,13 @@
 1 OBJE @O0121@
 1 OBJE @O0122@
 1 OBJE @O0123@
+1 OBJE @O0047@
 1 OBJE
 2 FORM URL
 2 FILE https://youtu.be/fUgk2Qny91o
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:43:34
+3 TIME 15:54:49
 0 @I0004@ INDI
 1 NAME Валерий /Сизоненко/
 2 TYPE birth
@@ -211,11 +214,12 @@
 1 OBJE @O0077@
 1 OBJE @O0065@
 1 OBJE @O0033@
+1 OBJE @O0152@
 1 OBJE @O0032@
 1 OBJE @O0066@
-1 OBJE @O0067@
-1 OBJE @O0068@
 1 OBJE @O0069@
+1 OBJE @O0068@
+1 OBJE @O0067@
 1 OBJE @O0034@
 1 OBJE @O0070@
 1 OBJE @O0133@
@@ -232,10 +236,11 @@
 1 OBJE @O0149@
 1 OBJE @O0148@
 1 OBJE @O0151@
+1 OBJE @O0052@
 1 NOTE @N0027@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:36:55
+3 TIME 16:05:59
 0 @I0005@ INDI
 1 NAME Никита /Сизоненко/
 2 TYPE birth
@@ -289,10 +294,12 @@
 1 OBJE @O0040@
 1 OBJE @O0032@
 1 OBJE @O0045@
+1 OBJE @O0152@
+1 OBJE @O0033@
 1 NOTE @N0001@
 1 CHAN
-2 DATE 6 NOV 2024
-3 TIME 01:47:11
+2 DATE 15 NOV 2024
+3 TIME 15:59:17
 0 @I0007@ INDI
 1 NAME Елизавета /Астафурова/
 2 TYPE birth
@@ -336,6 +343,7 @@
 1 OBJE @O0046@
 1 OBJE @O0047@
 1 OBJE @O0048@
+1 OBJE @O0049@
 1 OBJE @O0073@
 1 OBJE @O0074@
 1 OBJE @O0075@
@@ -350,7 +358,7 @@
 1 NOTE @N0025@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 13:36:39
+3 TIME 15:56:44
 0 @I0008@ INDI
 1 NAME Иван /Чёрный/
 2 TYPE birth
@@ -633,7 +641,7 @@
 1 NOTE @N0009@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 13:36:55
+3 TIME 15:58:15
 0 @I0019@ INDI
 1 NAME Фёдор /Астафуров/
 2 TYPE birth
@@ -873,10 +881,12 @@
 1 OBJE @O0082@
 1 OBJE @O0143@
 1 OBJE @O0135@
+1 OBJE @O0145@
+1 OBJE @O0150@
 1 WWW https://vk.com/id9719305
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:16:02
+3 TIME 16:02:34
 0 @I0038@ INDI
 1 NAME Юрий /Сизоненко/
 2 TYPE birth
@@ -972,9 +982,10 @@
 1 OBJE @O0069@
 1 OBJE @O0052@
 1 OBJE @O0144@
+1 OBJE @O0142@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:39:22
+3 TIME 15:51:00
 0 @I0044@ INDI
 1 NAME Максим /Искрицкий/
 2 TYPE birth
@@ -1108,10 +1119,11 @@
 1 OBJE @O0148@
 1 OBJE @O0149@
 1 OBJE @O0150@
+1 OBJE @O0052@
 1 NOTE @N0038@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:35:12
+3 TIME 16:05:22
 0 @I0052@ INDI
 1 NAME Евгений /Рудаков/
 2 TYPE birth
@@ -1132,9 +1144,11 @@
 2 SURN Искрицкий
 1 SEX M
 1 FAMS @F0015@
+1 OBJE @O0152@
+1 NOTE @N0039@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:02:27
+3 TIME 15:16:57
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -1298,7 +1312,7 @@
 1 CONC ы не убили. Сохранила только фотографию матери, вшила её в матрас. расти
 1 CONC ла брата Алексея. позже мужчина сильно старше её вычислил, что она не та
 1 CONC , за кого себя выдаёт, сватался ей, о дальнейшей судьбе не знаю
-0 @N0003@ NOTE 
+0 @N0003@ NOTE конезаводчик
 0 @N0004@ NOTE жили в станице в Ростовской области, была Польской княгиней, похище
 1 CONC на?
 1 CONT возможно, адрес Крестьянская, 17 Белая Калитва
@@ -1398,6 +1412,7 @@
 0 @N0037@ NOTE со слов Людмилы умный-заумный из Питера директор чего-то великого
 0 @N0038@ NOTE «Я наконец-то нашёл женщину, которая похожа на мою маму. Я искал е
 1 CONC ё давно», — Валерий о Людмиле (1999)
+0 @N0039@ NOTE маму звали Нина, развелись с Еленой рано
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -2320,8 +2335,8 @@
 2 FORM jpg
 2 TITL ^_^
 1 CHAN
-2 DATE 14 NOV 2024
-3 TIME 02:42:35
+2 DATE 15 NOV 2024
+3 TIME 16:06:45
 0 @O0132@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/стиль.jpg
 2 FORM jpg
@@ -2339,10 +2354,10 @@
 0 @O0134@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/привет.jpg
 2 FORM jpg
-2 TITL привет
+2 TITL привет (дача дир. Рублёвского)
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:11:18
+3 TIME 14:50:03
 0 @O0135@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/Максим Елена Валера.jpg
 2 FORM jpg
@@ -2363,14 +2378,14 @@
 2 TITL курорт
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:11:45
+3 TIME 16:08:57
 0 @O0138@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/Валера Людмила Злата.jpg
 2 FORM jpg
 2 TITL Валера Людмила Злата
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:12:01
+3 TIME 16:07:21
 0 @O0139@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/фото с памятника.jpg
 2 FORM jpg
@@ -2384,7 +2399,7 @@
 2 TITL на погончики
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:12:25
+3 TIME 16:09:56
 0 @O0141@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/рыбалка.jpg
 2 FORM jpg
@@ -2405,14 +2420,14 @@
 2 TITL Людмила и Елена Новый год
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:15:14
+3 TIME 16:09:13
 0 @O0144@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/Рудаковы Сизоненки.jpg
 2 FORM jpg
 2 TITL Рудаковы Сизоненки
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:22:52
+3 TIME 16:10:29
 0 @O0145@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/Людмила Максим Елена санаторий новый год.jpg
 2 FORM jpg
@@ -2426,7 +2441,7 @@
 2 TITL Людмила Катя Злата Валера
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:23:17
+3 TIME 16:09:29
 0 @O0147@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/шашлык.jpg
 2 FORM jpg
@@ -2437,17 +2452,17 @@
 0 @O0148@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/благодать.jpg
 2 FORM jpg
-2 TITL благодать
+2 TITL благодать (дача Лосевского)
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:34:52
+3 TIME 16:07:01
 0 @O0149@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/на отдыхе.jpg
 2 FORM jpg
-2 TITL на отдыхе
+2 TITL на отдыхе (Анапа)
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:35:01
+3 TIME 14:49:29
 0 @O0150@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/Людмила Елена.jpg
 2 FORM jpg
@@ -2461,5 +2476,12 @@
 2 TITL добро пожаловать
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 14:36:52
+3 TIME 16:07:37
+0 @O0152@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Николай Искрицкий и его мама Нина.jpg
+2 FORM jpg
+2 TITL Николай Искрицкий и его мама Нина
+1 CHAN
+2 DATE 15 NOV 2024
+3 TIME 15:16:20
 0 TRLR
