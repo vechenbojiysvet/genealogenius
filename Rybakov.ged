@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 15 NOV 2024
-2 TIME 16:12:06
+1 DATE 1 JAN 2018
+2 TIME 03:04:51
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/Rybakov.ged
-1 COPR Copyright (c) 2024 .
+1 COPR Copyright (c) 2018 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -251,6 +251,8 @@
 2 DATE 1921
 1 DEAT
 2 DATE 1984
+1 FACT гортани
+2 TYPE рак
 1 FAMS @F0001@
 1 ASSO @I0004@
 2 RELA Отец
@@ -268,8 +270,8 @@
 1 OBJE @O0044@
 1 NOTE @N0000@
 1 CHAN
-2 DATE 14 NOV 2024
-3 TIME 01:18:34
+2 DATE 15 NOV 2024
+3 TIME 16:37:40
 0 @I0006@ INDI
 1 NAME Анастасия /Иванова/
 2 TYPE birth
@@ -436,6 +438,9 @@
 1 EDUC Московский Ордена Трудового Красного Знамени Медицинский Стоматологическ
 2 CONC ий Институт им. Н.А. Семашко VIII выпуск врачей лечебного факультета
 2 DATE FROM 1973 TO 1979
+1 FACT лимфома B-клеточная (1997), меланома кожи лица с метастазами в лимфоузл
+2 CONC е (2018)
+2 TYPE рак
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0003@
@@ -459,7 +464,7 @@
 1 OBJE @O0072@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 13:36:11
+3 TIME 16:35:43
 0 @I0010@ INDI
 1 NAME Раиса /Попова/
 2 TYPE birth
@@ -536,6 +541,8 @@
 4 LATI N55.5356
 4 LONG E39.050275
 2 OBJE @O0061@
+1 FACT мочевого пузыря
+2 TYPE рак
 1 FAMS @F0004@
 1 OBJE @O0012@
 1 OBJE @O0018@
@@ -546,8 +553,8 @@
 1 OBJE @O0063@
 1 NOTE @N0005@
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 17:21:27
+2 DATE 15 NOV 2024
+3 TIME 16:36:04
 0 @I0014@ INDI
 1 NAME Макар /Чёрный/
 2 TYPE birth
@@ -873,6 +880,8 @@
 2 DATE 18 APR 1948
 1 DEAT
 2 DATE 9 SEP 2020
+1 FACT лёгких
+2 TYPE рак
 1 FAMC @F0001@
 2 PEDI birth
 1 FAMS @F0015@
@@ -886,7 +895,7 @@
 1 WWW https://vk.com/id9719305
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 16:02:34
+3 TIME 19:25:10
 0 @I0038@ INDI
 1 NAME Юрий /Сизоненко/
 2 TYPE birth
@@ -1025,13 +1034,15 @@
 4 LONG E33.67167
 1 DEAT
 2 DATE ABT 1997
+1 FACT желудка
+2 TYPE рак
 1 FAMC @F0001@
 2 PEDI birth
 1 FAMS @F0018@
 1 NOTE @N0034@
 1 CHAN
 2 DATE 15 NOV 2024
-3 TIME 13:45:32
+3 TIME 16:36:43
 0 @I0046@ INDI
 1 NAME Иван /Кантонистый/
 2 TYPE birth
@@ -1303,7 +1314,7 @@
 0 @N0000@ NOTE Писарь. Жил в селе Украинской СР, пришли немцы и угнали работат
 1 CONC ь в Германию. Потом фильтрация, не пустили его обратно на Украину, отпра
 1 CONC вили на север.
-0 @N0001@ NOTE был умерший новорожденным брат-близнец. из Псковщины, Старая Руса
+0 @N0001@ NOTE был умерший новорожденным брат-близнец. из Псковщины, Старая Русса
 1 CONC . Когда была подростком, вывезли в Мурманскую область, выгрузили, земл
 1 CONC я мёрзлая, в землянке стали жить. была мельница. "ну какие мы кулаки, м
 1 CONC ы сами всю жизнь работаем здесь"
@@ -1535,10 +1546,10 @@
 0 @O0017@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/2024-10-18 02.32.42.jpg
 2 FORM jpg
-2 TITL с Володей в Калите 1974
+2 TITL с Володей в Калитве 1974
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:20:47
+2 DATE 15 NOV 2024
+3 TIME 20:12:59
 0 @O0018@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/Семья/2024-10-18 02.53.40.jpg
 2 FORM jpg
