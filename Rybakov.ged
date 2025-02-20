@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 1 JAN 2018
-2 TIME 03:04:51
+1 DATE 21 FEB 2025
+2 TIME 02:23:44
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/Rybakov.ged
-1 COPR Copyright (c) 2018 .
+1 COPR Copyright (c) 2025 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -23,16 +23,20 @@
 1 BIRT
 2 TYPE около 16:00
 2 DATE 3 AUG 1999
-2 PLAC Городская клиническая больница №15 им. О.М.Филатова
+2 PLAC Городская клиническая больница №15 им. О.М.Филатова, Москва и МО, Россия
 3 MAP
 4 LATI N55.73121
 4 LONG E37.832997
+2 ADDR
+3 CTRY Россия
 1 BAPM
 2 DATE 4 MAY 2024
-2 PLAC Князь-Владимирский собор
+2 PLAC Князь-Владимирский собор, Санкт-Петербург, Россия
 3 MAP
 4 LATI N59.951838
 4 LONG E30.29546
+2 ADDR
+3 CTRY Россия
 2 OBJE @O0001@
 2 OBJE @O0002@
 2 OBJE @O0003@
@@ -40,10 +44,12 @@
 2 OBJE @O0000@
 1 EDUC
 2 DATE FROM 2017 TO 2022
-2 PLAC корпус социологии НИУ ВШЭ
+2 PLAC корпус социологии НИУ ВШЭ, Санкт-Петербург, Россия
 3 MAP
 4 LATI N59.881169
 4 LONG E30.423558
+2 ADDR
+3 CTRY Россия
 1 FACT 31 октября
 2 TYPE Именины
 2 SOUR @S0000@
@@ -66,10 +72,12 @@
 1 SEX F
 1 BIRT
 2 DATE 22 MAY 1987
-2 PLAC Москва
+2 PLAC Москва и МО, Россия
 3 MAP
 4 LATI N55.758021
 4 LONG E37.617638
+2 ADDR
+3 CTRY Россия
 1 FAMC @F0012@
 2 PEDI birth
 1 ASSO @I0000@
@@ -87,10 +95,12 @@
 1 SEX F
 1 BIRT
 2 DATE 12 JUN 1972
-2 PLAC Люберецкий родильный дом
+2 PLAC Люберецкий родильный дом, Москва и МО, Россия
 3 MAP
 4 LATI N55.668056
 4 LONG E37.906642
+2 ADDR
+3 CTRY Россия
 1 FAMC @F0000@
 2 PEDI birth
 1 FAMS @F0003@
@@ -139,10 +149,13 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1948
-2 PLAC Харьков
+2 PLAC Харьков, Украина
 3 MAP
 4 LATI N50.001095
 4 LONG E36.304352
+2 ADDR
+3 CITY Харьков
+3 CTRY Украина
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0000@
@@ -188,10 +201,12 @@
 1 SEX M
 1 BIRT
 2 DATE 1 MAR 1947
-2 PLAC Кировск
+2 PLAC Кировск, Россия
 3 MAP
 4 LATI N67.61417
 4 LONG E33.67167
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 TYPE Токарёвское кладбище
 2 DATE 11 AUG 2015
@@ -201,6 +216,8 @@
 3 MAP
 4 LATI N49.463333
 4 LONG E105.992222
+2 ADDR
+3 CTRY Монголия
 1 FAMC @F0001@
 2 PEDI birth
 1 FAMS @F0000@
@@ -280,16 +297,20 @@
 1 SEX F
 1 BIRT
 2 DATE 10 APR 1920
-2 PLAC Старая Русса
+2 PLAC Старая Русса, Россия
 3 MAP
 4 LATI N57.99072
 4 LONG E31.355461
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 DATE AFT 1985
-2 PLAC Осиповичи
+2 PLAC Осиповичи, Белоруссия
 3 MAP
 4 LATI N53.308832
 4 LONG E28.638219
+2 ADDR
+3 CTRY Белоруссия
 1 FAMS @F0001@
 1 ASSO @I0005@
 2 RELA Жена
@@ -310,33 +331,48 @@
 1 SEX F
 1 BIRT
 2 DATE 27 NOV 1923
-2 PLAC село Копейкино Таврического района Омской области
+2 PLAC село Копейкино Таврического района Омской области, Россия
 3 MAP
 4 LATI N54.649349
 4 LONG E73.767081
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 TYPE прах захоронен на Николо-Архангельском кладбище, 129 участок
 2 DATE 11 JUN 2001
-2 PLAC Городская клиническая больница №15 им. О.М.Филатова
+2 PLAC Городская клиническая больница №15 им. О.М.Филатова, Москва и МО, Россия
 3 MAP
 4 LATI N55.73121
 4 LONG E37.832997
+2 ADDR
+3 CTRY Россия
 1 BURI
 2 DATE 14 JUN 2001
-2 PLAC Николо-Архангельское кладбище
+2 PLAC Николо-Архангельское кладбище, Москва и МО, Россия
 3 MAP
 4 LATI N55.744243
 4 LONG E37.895347
+2 ADDR
+3 CTRY Россия
 1 EDUC эвакуация института в Сталинабаде Одесский технологический институт конс
 2 CONC ервной промышленности, специальность Инженер-технолог
 2 DATE FROM 1942 TO 1943
-2 PLAC Сталинабад, Душанбе
+2 PLAC Сталинабад, Таджикистан
+3 MAP
+4 LATI N38.558908
+4 LONG E68.785014
+2 ADDR
+3 CITY Сталинабад
+3 CTRY Таджикистан
 1 EDUC переезд обратно и защита диплома
 2 DATE FROM 1943 TO 1947
-2 PLAC Одесса
+2 PLAC Одесса, Украина
 3 MAP
 4 LATI N46.490141
 4 LONG E30.728295
+2 ADDR
+3 CITY Одесса
+3 CTRY Украина
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMS @F0002@
@@ -369,18 +405,21 @@
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 1921
-2 PLAC село Варовцы, Хмельницкая область
+2 PLAC село Варовцы, Городокский район, Хмельницкая область, Украина
 3 MAP
 4 LATI N49.331233
 4 LONG E26.563575
+2 ADDR
+3 CTRY Украина
 1 DEAT
 2 DATE 3 AUG 1992
-2 PLAC город Черкассы
+2 PLAC Черкассы, Украина
 3 MAP
 4 LATI N49.44735
 4 LONG E32.050794
 2 ADDR
-3 CITY город Черкассы
+3 CITY Черкассы
+3 CTRY Украина
 1 FAMC @F0006@
 2 PEDI birth
 1 FAMS @F0002@
@@ -408,36 +447,71 @@
 1 SEX M
 1 BIRT
 2 DATE 3 MAR 1952
-1 DEAT
-2 DATE 2 OCT 2019
-2 PLAC Москва
+2 PLAC Москва и МО, Россия
 3 MAP
 4 LATI N55.758021
 4 LONG E37.617638
+2 ADDR
+3 CTRY Россия
+2 OBJE @O0153@
+1 DEAT
+2 DATE 2 OCT 2019
+2 PLAC Москва и МО, Россия
+3 MAP
+4 LATI N55.758021
+4 LONG E37.617638
+2 ADDR
+3 CTRY Россия
 1 BURI
 2 TYPE участок 65, номер 3996
 2 DATE 5 OCT 2019
-2 PLAC Митинское кладбище
+2 PLAC Митинское кладбище, Москва и МО, Россия
 3 MAP
 4 LATI N55.877162
 4 LONG E37.347045
+2 ADDR
+3 CTRY Россия
 1 _MILT
 2 DATE FROM 14 APR 1970 TO 13 OCT 1970
-2 PLAC Кубинка
+2 PLAC Кубинка, Москва и МО, Россия
 3 MAP
 4 LATI N55.552006
 4 LONG E36.690268
+2 ADDR
+3 CTRY Россия
 3 NOTE @N0029@
 1 _MILT
 2 DATE FROM 20 OCT 1970 TO 14 APR 1972
-2 PLAC Наро-Фоминск-10
+2 PLAC Наро-Фоминск-10, Москва и МО, Россия
 3 MAP
 4 LATI N55.350222
 4 LONG E36.483239
+2 ADDR
+3 CTRY Россия
 3 NOTE @N0030@
 1 EDUC Московский Ордена Трудового Красного Знамени Медицинский Стоматологическ
 2 CONC ий Институт им. Н.А. Семашко VIII выпуск врачей лечебного факультета
 2 DATE FROM 1973 TO 1979
+2 PLAC Москва и МО, Россия
+3 MAP
+4 LATI N55.758021
+4 LONG E37.617638
+2 ADDR
+3 CTRY Россия
+1 _DEG
+2 DATE FROM 4 OCT 1985 TO 8 AUG 1988
+2 PLAC НИИ Травмотологии и Ортопедии им. Пирогова, Москва и МО, Россия
+2 ADDR
+3 CTRY Россия
+2 OBJE @O0059@
+1 OCCU врач-травматолог, заместитель главного врача
+2 DATE FROM 15 AUG 1981 TO 2 OCT 2019
+2 PLAC Городская клиническая больница №15 им. О.М.Филатова, Москва и МО, Россия
+3 MAP
+4 LATI N55.73121
+4 LONG E37.832997
+2 ADDR
+3 CTRY Россия
 1 FACT лимфома B-клеточная (1997), меланома кожи лица с метастазами в лимфоузл
 2 CONC е (2018)
 2 TYPE рак
@@ -463,8 +537,8 @@
 1 OBJE @O0060@
 1 OBJE @O0072@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:35:43
+2 DATE 20 FEB 2025
+3 TIME 20:45:34
 0 @I0010@ INDI
 1 NAME Раиса /Попова/
 2 TYPE birth
@@ -474,28 +548,48 @@
 1 BIRT
 2 TYPE так написано в СНИЛС
 2 DATE 8 SEP 1914
-2 PLAC Вирятино
+2 PLAC Вирятино, Россия
 3 MAP
 4 LATI N53.183015
 4 LONG E41.476995
+2 ADDR
+3 CTRY Россия
 2 OBJE @O0103@
 1 DEAT
 2 DATE 12 DEC 2008
-2 PLAC Москва
+2 PLAC Москва и МО, Россия
 3 MAP
 4 LATI N55.758021
 4 LONG E37.617638
-1 OCCU
+2 ADDR
+3 CTRY Россия
+1 OCCU Министерство Лёгкой Промышленности СССР
 2 DATE FROM 1940 TO 1963
+2 PLAC Москва и МО, Россия
+3 MAP
+4 LATI N55.758021
+4 LONG E37.617638
+2 ADDR
+3 CTRY Россия
+1 BURI
+2 TYPE урна на участке 65, номер 1279
+2 DATE 18 APR 2009
+2 PLAC Митинское кладбище, Москва и МО, Россия
+3 MAP
+4 LATI N55.877162
+4 LONG E37.347045
+2 ADDR
+3 CTRY Россия
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0004@
 1 OBJE @O0006@
 1 OBJE @O0018@
+1 OBJE @O0154@
 1 NOTE @N0002@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:23
+2 DATE 20 FEB 2025
+3 TIME 21:00:51
 0 @I0011@ INDI
 1 NAME Алексей /Попов/
 2 TYPE birth
@@ -536,11 +630,23 @@
 1 DEAT
 2 TYPE предположительно, Московская городская онкологическая больница № 62,
 2 DATE 24 MAR 1982
-2 PLAC Степановское
+2 PLAC Степановское, Москва и МО, Россия
 3 MAP
 4 LATI N55.5356
 4 LONG E39.050275
+2 ADDR
+3 ADR2 Степановское
+3 CTRY Россия
 2 OBJE @O0061@
+1 BURI
+2 TYPE участок 65, номер 3996
+2 DATE 27 MAR 1982
+2 PLAC Митинское кладбище, Москва и МО, Россия
+3 MAP
+4 LATI N55.877162
+4 LONG E37.347045
+2 ADDR
+3 CTRY Россия
 1 FACT мочевого пузыря
 2 TYPE рак
 1 FAMS @F0004@
@@ -553,8 +659,8 @@
 1 OBJE @O0063@
 1 NOTE @N0005@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:36:04
+2 DATE 20 FEB 2025
+3 TIME 20:21:50
 0 @I0014@ INDI
 1 NAME Макар /Чёрный/
 2 TYPE birth
@@ -596,17 +702,22 @@
 1 SEX M
 1 BIRT
 2 DATE 22 MAR 1897
-2 PLAC село Копейкино Таврического района Омской области
+2 PLAC село Копейкино Таврического района Омской области, Россия
 3 MAP
 4 LATI N54.649349
 4 LONG E73.767081
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 DATE 21 MAR 1961
 1 BURI
-2 PLAC Душанбе
+2 PLAC Сталинабад, Таджикистан
 3 MAP
 4 LATI N38.558908
 4 LONG E68.785014
+2 ADDR
+3 CITY Сталинабад
+3 CTRY Таджикистан
 1 FAMC @F0009@
 2 PEDI birth
 1 FAMS @F0008@
@@ -629,10 +740,12 @@
 1 SEX F
 1 BIRT
 2 DATE 25 AUG 1897
-2 PLAC село Фадино Омской губернии
+2 PLAC село Фадино Омской губернии, Россия
 3 MAP
 4 LATI N54.784766
 4 LONG E73.34
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 TYPE или 08сент? похоронена там же, где и муж, в Душанбе
 2 DATE 11 SEP 1986
@@ -655,24 +768,30 @@
 2 GIVN Фёдор
 2 SURN Астафуров
 1 SEX M
+1 BIRT
+2 DATE EST 1886
 1 FAMC @F0009@
 2 PEDI birth
+1 OBJE @O0156@
 1 NOTE @N0011@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:47
+2 DATE 21 FEB 2025
+3 TIME 01:41:06
 0 @I0020@ INDI
 1 NAME Алексей /Астафуров/
 2 TYPE birth
 2 GIVN Алексей
 2 SURN Астафуров
 1 SEX M
+1 BIRT
+2 DATE EST 1900
 1 FAMC @F0009@
 2 PEDI birth
+1 OBJE @O0157@
 1 NOTE @N0012@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:47
+2 DATE 21 FEB 2025
+3 TIME 01:42:39
 0 @I0021@ INDI
 1 NAME Степан /Астафуров/
 2 TYPE birth
@@ -704,10 +823,13 @@
 2 SURN Астафуров
 1 SEX M
 1 BIRT
-2 PLAC Самарская губерния
+2 PLAC Самарская губерния, Россия
 3 MAP
 4 LATI N53.184056
 4 LONG E50.116667
+2 ADDR
+3 ADR2 Самарская губерния
+3 CTRY Россия
 1 FAMS @F0009@
 1 NOTE @N0015@
 1 CHAN
@@ -719,12 +841,23 @@
 2 GIVN Фёдор
 2 SURN Фадин
 1 SEX M
+1 BIRT
+2 DATE 1892
+2 PLAC Самарская губ., Пугачевский уезд, с. Канаевка, Россия
+2 ADDR
+3 CTRY Россия
+1 DEAT
+2 DATE 14 AUG 1937
+1 EVEN арест, до осуждения 5 августа 1937
+2 TYPE Cause Of Death
+2 DATE 12 APR 1937
 1 FAMC @F0010@
 2 PEDI birth
+1 OBJE @O0155@
 1 NOTE @N0016@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 21 FEB 2025
+3 TIME 00:20:22
 0 @I0025@ INDI
 1 NAME Иван /Фадин/
 2 TYPE birth
@@ -919,13 +1052,22 @@
 1 SEX M
 1 BIRT
 2 DATE 11 NOV 1966
-2 PLAC Холм, Новгородская область
+2 PLAC Холм, Новгородская область, Россия
+2 ADDR
+3 CTRY Россия
 1 RELI рукоположение (иерейская хиротония) митрополитом Санкт-Петербургским и Л
 2 CONC адожским Иоанном (Снычевым)
 2 DATE 1 NOV 1992
 1 ORDN
 2 TYPE начало служения в Князь-Владимирском соборе в качестве певчего
 2 DATE 1988
+2 PLAC Князь-Владимирский собор, Санкт-Петербург, Россия
+3 MAP
+4 LATI N59.951838
+4 LONG E30.29546
+2 ADDR
+3 CTRY Россия
+2 OBJE @O0000@
 1 OBJE @O0002@
 1 OBJE @O0001@
 1 OBJE @O0003@
@@ -981,10 +1123,12 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1976
-2 PLAC Кировск
+2 PLAC Кировск, Россия
 3 MAP
 4 LATI N67.61417
 4 LONG E33.67167
+2 ADDR
+3 CTRY Россия
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0019@
@@ -1006,10 +1150,12 @@
 1 BIRT
 2 TYPE "ноябрь или декабрь 1974 или 1975"
 2 DATE NOV 1974
-2 PLAC Кировск
+2 PLAC Кировск, Россия
 3 MAP
 4 LATI N67.61417
 4 LONG E33.67167
+2 ADDR
+3 CTRY Россия
 1 FAMC @F0015@
 2 PEDI birth
 1 OBJE @O0105@
@@ -1028,10 +1174,12 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1952
-2 PLAC Кировск
+2 PLAC Кировск, Россия
 3 MAP
 4 LATI N67.61417
 4 LONG E33.67167
+2 ADDR
+3 CTRY Россия
 1 DEAT
 2 DATE ABT 1997
 1 FACT желудка
@@ -1113,7 +1261,9 @@
 1 SEX F
 1 BIRT
 2 DATE 31 MAY 1957
-2 PLAC село Соседка Пензенской области
+2 PLAC село Соседка Пензенской области, Россия
+2 ADDR
+3 CTRY Россия
 1 EDUC Пензенское культурно-просветительное училище
 2 DATE 1976
 1 FAMS @F0020@
@@ -1358,8 +1508,11 @@
 0 @N0014@ NOTE умерла в молодости, по-видимому, от туберкулеза
 0 @N0015@ NOTE родился в Самарской губернии, до революции 1917г переехал в Сибир
 1 CONC ь для освоения земель
-0 @N0016@ NOTE  в 1938г был арестован, осужден и умер в тюрьме. Скорее всего осужд
-1 CONC ен был за религию. (ветка молокан)
+0 @N0016@ NOTE Ольга: в 1938г был арестован, осужден и умер в тюрьме. Скорее всег
+1 CONC о осужден был за религию. (ветка молокан)
+1 CONT вероятное совпадение: https://ru.openlist.wiki/%D0%A4%D0%B0%D0%B4%D0%B8%
+1 CONC D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B
+1 CONC 8%D1%87_(1892)
 0 @N0017@ NOTE жил  в г. Фрунзе, Киргизская ССР (ныне Бишкек, Кыргызстан).
 1 CONT 
 0 @N0018@ NOTE жил в г. Фрунзе, Киргизская ССР (ныне Бишкек, Кыргызстан).
@@ -1424,6 +1577,16 @@
 0 @N0038@ NOTE «Я наконец-то нашёл женщину, которая похожа на мою маму. Я искал е
 1 CONC ё давно», — Валерий о Людмиле (1999)
 0 @N0039@ NOTE маму звали Нина, развелись с Еленой рано
+0 @N0040@ NOTE Интерактивное фамильное древо: https://vechenbojiysvet.github.io/de
+1 CONC revo/#/view
+0 @N0041@ NOTE  Источники данных: БД "Жертвы политического террора в СССР"; Кресть
+1 CONC янская Голгофа. Книга памяти репрессированного крестьянства Омской облас
+1 CONC ти
+1 CONT ISBN 978-5-8042-0306-2
+0 @N0042@ NOTE  Источники данных: БД "Жертвы политического террора в СССР"; Кресть
+1 CONC янская Голгофа. Книга памяти репрессированного крестьянства Омской облас
+1 CONC ти
+1 CONT ISBN 978-5-8042-0306-2
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -2495,4 +2658,41 @@
 1 CHAN
 2 DATE 15 NOV 2024
 3 TIME 15:16:20
+0 @O0153@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/свидетельство о рождении Виктор Рыбаков.jpg
+2 FORM jpg
+2 TITL свидетельство о рождении Виктор Рыбаков
+1 CHAN
+2 DATE 20 FEB 2025
+3 TIME 21:00:01
+0 @O0154@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/свидетельство о смерти Раиса Попова.jpg
+2 FORM jpg
+2 TITL свидетельство о смерти Раиса Попова
+1 CHAN
+2 DATE 20 FEB 2025
+3 TIME 21:00:22
+0 @O0155@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Фадин Фёдор Никитич.png
+2 FORM png
+2 TITL Фадин Фёдор Никитич
+1 CHAN
+2 DATE 21 FEB 2025
+3 TIME 00:20:19
+0 @O0156@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Астафуров Фёдор Андреевич.png
+2 FORM png
+2 TITL Астафуров Фёдор Андреевич
+1 NOTE @N0041@
+1 CHAN
+2 DATE 21 FEB 2025
+3 TIME 01:41:03
+0 @O0157@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Астафуров Алексей Андреевич.png
+2 FORM png
+2 TITL Астафуров Алексей Андреевич
+1 NOTE @N0042@
+1 CHAN
+2 DATE 21 FEB 2025
+3 TIME 01:42:35
 0 TRLR
