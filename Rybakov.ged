@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 21 FEB 2025
-2 TIME 02:37:30
+1 DATE 24 FEB 2025
+2 TIME 22:56:35
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -15,10 +15,11 @@
 0 @SUBM@ SUBM
 1 NAME
 0 @I0000@ INDI
-1 NAME Злата /Рыбакова/
+1 NAME Злата /Рыбакова/ Викторовна
 2 TYPE birth
 2 GIVN Злата
 2 SURN Рыбакова
+2 NSFX Викторовна
 1 SEX F
 1 BIRT
 2 TYPE около 16:00
@@ -62,13 +63,14 @@
 2 RELA Крёстный отец
 1 OBJE @O0027@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:35:53
+2 DATE 24 FEB 2025
+3 TIME 00:56:17
 0 @I0001@ INDI
-1 NAME Елена /Рыбакова/
+1 NAME Елена /Рыбакова/ Викторовна
 2 TYPE birth
 2 GIVN Елена
 2 SURN Рыбакова
+2 NSFX Викторовна
 1 SEX F
 1 BIRT
 2 DATE 22 MAY 1987
@@ -85,13 +87,14 @@
 1 OBJE @O0005@
 1 NOTE @N0010@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:37:02
+2 DATE 24 FEB 2025
+3 TIME 00:56:04
 0 @I0002@ INDI
-1 NAME Екатерина /Сизоненко/
+1 NAME Екатерина /Сизоненко/ Валерьевна
 2 TYPE birth
 2 GIVN Екатерина
 2 SURN Сизоненко
+2 NSFX Валерьевна
 1 SEX F
 1 BIRT
 2 DATE 12 JUN 1972
@@ -139,13 +142,14 @@
 1 OBJE @O0105@
 1 NOTE @N0032@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:55:41
+2 DATE 24 FEB 2025
+3 TIME 00:56:49
 0 @I0003@ INDI
-1 NAME Вера /Чёрная/
+1 NAME Вера /Чёрная/ Ивановна
 2 TYPE birth
 2 GIVN Вера
 2 SURN Чёрная
+2 NSFX Ивановна
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1948
@@ -191,13 +195,14 @@
 2 FORM URL
 2 FILE https://youtu.be/fUgk2Qny91o
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:54:49
+2 DATE 24 FEB 2025
+3 TIME 00:59:28
 0 @I0004@ INDI
-1 NAME Валерий /Сизоненко/
+1 NAME Валерий /Сизоненко/ Никитич
 2 TYPE birth
 2 GIVN Валерий
 2 SURN Сизоненко
+2 NSFX Никитич
 1 SEX M
 1 BIRT
 2 DATE 1 MAR 1947
@@ -256,21 +261,32 @@
 1 OBJE @O0052@
 1 NOTE @N0027@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:05:59
+2 DATE 24 FEB 2025
+3 TIME 21:48:38
 0 @I0005@ INDI
-1 NAME Никита /Сизоненко/
+1 NAME Никита /Сизоненко/ Герасимович
 2 TYPE birth
 2 GIVN Никита
 2 SURN Сизоненко
+2 NSFX Герасимович
 1 SEX M
 1 BIRT
 2 DATE 1921
+2 PLAC Вербовка, село в Городищенском районе Черкасской области, Черкассы, Украина
+3 MAP
+4 LATI N49.222222
+4 LONG E31.271111
+2 ADDR
+3 CITY Черкассы
+3 CTRY Украина
 1 DEAT
 2 DATE 1984
 1 FACT гортани
 2 TYPE рак
+1 FAMC @F0023@
+2 PEDI birth
 1 FAMS @F0001@
+1 FAMS @F0029@
 1 ASSO @I0004@
 2 RELA Отец
 1 OBJE @O0040@
@@ -279,13 +295,14 @@
 1 OBJE @O0044@
 1 NOTE @N0000@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:37:40
+2 DATE 24 FEB 2025
+3 TIME 21:43:09
 0 @I0006@ INDI
-1 NAME Анастасия /Иванова/
+1 NAME Анастасия /Иванова/ Ивановна
 2 TYPE birth
 2 GIVN Анастасия
 2 SURN Иванова
+2 NSFX Ивановна
 1 SEX F
 1 BIRT
 2 DATE 10 APR 1920
@@ -295,14 +312,25 @@
 4 LONG E31.355461
 2 ADDR
 3 CTRY Россия
+2 NOTE @N0045@
 1 DEAT
-2 DATE AFT 1985
+2 DATE 9 JUN 1997
 2 PLAC Осиповичи, Белоруссия
 3 MAP
 4 LATI N53.308832
 4 LONG E28.638219
 2 ADDR
 3 CTRY Белоруссия
+1 RESI
+2 DATE 1974
+2 PLAC Осиповичи, Белоруссия
+3 MAP
+4 LATI N53.308832
+4 LONG E28.638219
+2 ADDR
+3 CTRY Белоруссия
+1 FAMC @F0028@
+2 PEDI birth
 1 FAMS @F0001@
 1 ASSO @I0005@
 2 RELA Жена
@@ -313,13 +341,14 @@
 1 OBJE @O0033@
 1 NOTE @N0001@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:59:17
+2 DATE 24 FEB 2025
+3 TIME 21:38:24
 0 @I0007@ INDI
-1 NAME Елизавета /Астафурова/
+1 NAME Елизавета /Астафурова/ Николаевна
 2 TYPE birth
 2 GIVN Елизавета
 2 SURN Астафурова
+2 NSFX Николаевна
 1 SEX F
 1 BIRT
 2 DATE 27 NOV 1923
@@ -387,13 +416,14 @@
 1 OBJE @O0126@
 1 NOTE @N0025@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:56:44
+2 DATE 24 FEB 2025
+3 TIME 00:52:55
 0 @I0008@ INDI
-1 NAME Иван /Чёрный/
+1 NAME Иван /Чёрный/ Макарович
 2 TYPE birth
 2 GIVN Иван
 2 SURN Чёрный
+2 NSFX Макарович
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 1921
@@ -429,13 +459,14 @@
 1 OBJE @O0130@
 1 NOTE @N0026@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:32
+2 DATE 24 FEB 2025
+3 TIME 00:59:49
 0 @I0009@ INDI
-1 NAME Виктор /Рыбаков/
+1 NAME Виктор /Рыбаков/ Сергеевич
 2 TYPE birth
 2 GIVN Виктор
 2 SURN Рыбаков
+2 NSFX Сергеевич
 1 SEX M
 1 BIRT
 2 DATE 3 MAR 1952
@@ -529,13 +560,14 @@
 1 OBJE @O0060@
 1 OBJE @O0072@
 1 CHAN
-2 DATE 20 FEB 2025
-3 TIME 20:45:34
+2 DATE 24 FEB 2025
+3 TIME 00:55:47
 0 @I0010@ INDI
-1 NAME Раиса /Попова/
+1 NAME Раиса /Попова/ Алексеевна
 2 TYPE birth
 2 GIVN Раиса
 2 SURN Попова
+2 NSFX Алексеевна
 1 SEX F
 1 BIRT
 2 TYPE так написано в СНИЛС
@@ -580,8 +612,8 @@
 1 OBJE @O0154@
 1 NOTE @N0002@
 1 CHAN
-2 DATE 20 FEB 2025
-3 TIME 21:00:51
+2 DATE 24 FEB 2025
+3 TIME 00:55:13
 0 @I0011@ INDI
 1 NAME Алексей /Попов/
 2 TYPE birth
@@ -611,10 +643,11 @@
 2 DATE 12 NOV 2024
 3 TIME 07:00:45
 0 @I0013@ INDI
-1 NAME Сергей /Рыбаков/
+1 NAME Сергей /Рыбаков/ Васильевич
 2 TYPE birth
 2 GIVN Сергей
 2 SURN Рыбаков
+2 NSFX Васильевич
 1 SEX M
 1 BIRT
 2 DATE 1919
@@ -641,6 +674,8 @@
 3 CTRY Россия
 1 FACT мочевого пузыря
 2 TYPE рак
+1 FAMC @F0021@
+2 PEDI birth
 1 FAMS @F0004@
 1 OBJE @O0012@
 1 OBJE @O0018@
@@ -651,8 +686,8 @@
 1 OBJE @O0063@
 1 NOTE @N0005@
 1 CHAN
-2 DATE 20 FEB 2025
-3 TIME 20:21:50
+2 DATE 24 FEB 2025
+3 TIME 00:55:56
 0 @I0014@ INDI
 1 NAME Макар /Чёрный/
 2 TYPE birth
@@ -675,22 +710,24 @@
 2 DATE 12 NOV 2024
 3 TIME 00:53:05
 0 @I0016@ INDI
-1 NAME Елена /Чёрная/
+1 NAME Елена /Чёрная/ Макаровна
 2 TYPE birth
 2 GIVN Елена
 2 SURN Чёрная
+2 NSFX Макаровна
 1 SEX F
 1 FAMC @F0006@
 2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:32
+2 DATE 24 FEB 2025
+3 TIME 00:59:39
 0 @I0017@ INDI
-1 NAME Николай /Астафуров/
+1 NAME Николай /Астафуров/ Андреевич
 2 TYPE birth
 2 GIVN Николай
 2 SURN Астафуров
+2 NSFX Андреевич
 1 SEX M
 1 BIRT
 2 DATE 22 MAR 1897
@@ -722,13 +759,14 @@
 1 OBJE @O0113@
 1 NOTE @N0008@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:47
+2 DATE 24 FEB 2025
+3 TIME 00:52:01
 0 @I0018@ INDI
-1 NAME Любовь /Фадина/
+1 NAME Любовь /Фадина/ Никитична
 2 TYPE birth
 2 GIVN Любовь
 2 SURN Фадина
+2 NSFX Никитична
 1 SEX F
 1 BIRT
 2 DATE 25 AUG 1897
@@ -752,62 +790,68 @@
 1 OBJE @O0112@
 1 NOTE @N0009@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:58:15
+2 DATE 24 FEB 2025
+3 TIME 00:58:10
 0 @I0019@ INDI
-1 NAME Фёдор /Астафуров/
+1 NAME Фёдор /Астафуров/ Николаевич
 2 TYPE birth
 2 GIVN Фёдор
 2 SURN Астафуров
+2 NSFX Николаевич
 1 SEX M
 1 BIRT
 2 DATE EST 1886
 1 FAMC @F0009@
 2 PEDI birth
+1 FAMS @F0022@
 1 OBJE @O0156@
 1 NOTE @N0011@
 1 CHAN
-2 DATE 21 FEB 2025
-3 TIME 01:41:06
+2 DATE 24 FEB 2025
+3 TIME 00:49:28
 0 @I0020@ INDI
-1 NAME Алексей /Астафуров/
+1 NAME Алексей /Астафуров/ Андреевич
 2 TYPE birth
 2 GIVN Алексей
 2 SURN Астафуров
+2 NSFX Андреевич
 1 SEX M
 1 BIRT
 2 DATE EST 1900
 1 FAMC @F0009@
 2 PEDI birth
+1 FAMS @F0024@
 1 OBJE @O0157@
 1 NOTE @N0012@
 1 CHAN
-2 DATE 21 FEB 2025
-3 TIME 01:42:39
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
 0 @I0021@ INDI
-1 NAME Степан /Астафуров/
+1 NAME Степан /Астафуров/ Андреевич
 2 TYPE birth
 2 GIVN Степан
 2 SURN Астафуров
+2 NSFX Андреевич
 1 SEX M
 1 FAMC @F0009@
 2 PEDI birth
 1 NOTE @N0013@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:47
+2 DATE 24 FEB 2025
+3 TIME 00:52:08
 0 @I0022@ INDI
-1 NAME Анастасия /Астафурова/
+1 NAME Анастасия /Астафурова/ Андреевна
 2 TYPE birth
 2 GIVN Анастасия
 2 SURN Астафурова
+2 NSFX Андреевна
 1 SEX F
 1 FAMC @F0009@
 2 PEDI birth
 1 NOTE @N0014@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:47
+2 DATE 24 FEB 2025
+3 TIME 00:52:46
 0 @I0023@ INDI
 1 NAME Андрей /Астафуров/
 2 TYPE birth
@@ -828,10 +872,11 @@
 2 DATE 18 OCT 2024
 3 TIME 15:27:50
 0 @I0024@ INDI
-1 NAME Фёдор /Фадин/
+1 NAME Фёдор /Фадин/ Никитич
 2 TYPE birth
 2 GIVN Фёдор
 2 SURN Фадин
+2 NSFX Никитич
 1 SEX M
 1 BIRT
 2 DATE 1892
@@ -848,86 +893,93 @@
 1 OBJE @O0155@
 1 NOTE @N0016@
 1 CHAN
-2 DATE 21 FEB 2025
-3 TIME 00:20:22
+2 DATE 24 FEB 2025
+3 TIME 00:58:47
 0 @I0025@ INDI
-1 NAME Иван /Фадин/
+1 NAME Иван /Фадин/ Никитич
 2 TYPE birth
 2 GIVN Иван
 2 SURN Фадин
+2 NSFX Никитич
 1 SEX M
 1 FAMC @F0010@
 2 PEDI birth
 1 NOTE @N0017@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:57:59
 0 @I0026@ INDI
-1 NAME Василий /Фадин/
+1 NAME Василий /Фадин/ Никитич
 2 TYPE birth
 2 GIVN Василий
 2 SURN Фадин
+2 NSFX Никитич
 1 SEX M
 1 FAMC @F0010@
 2 PEDI birth
 1 NOTE @N0018@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:57:42
 0 @I0027@ INDI
-1 NAME Егор /Фадин/
+1 NAME Егор /Фадин/ Никитич
 2 TYPE birth
 2 GIVN Егор
 2 SURN Фадин
+2 NSFX Никитич
 1 SEX M
 1 FAMC @F0010@
 2 PEDI birth
 1 NOTE @N0019@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:57:51
 0 @I0028@ INDI
-1 NAME Пелагея /Фадина/
+1 NAME Пелагея /Фадина/ Никитична
 2 TYPE birth
 2 GIVN Пелагея
 2 SURN Фадина
+2 NSFX Никитична
 1 SEX F
 1 FAMC @F0010@
 2 PEDI birth
 1 NOTE @N0020@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:58:38
 0 @I0029@ INDI
-1 NAME Мария /Фадина/
+1 NAME Мария /Фадина/ Никитична
 2 TYPE birth
 2 GIVN Мария
 2 SURN Фадина
+2 NSFX Никитична
 1 SEX F
 1 FAMC @F0010@
 2 PEDI birth
 1 NOTE @N0021@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:58:17
 0 @I0030@ INDI
-1 NAME Матрёна /Фадина/
+1 NAME Матрёна /Фадина/ Никитична
 2 TYPE birth
 2 GIVN Матрёна
 2 SURN Фадина
+2 NSFX Никитична
 1 SEX F
 1 FAMC @F0010@
 2 PEDI birth
 1 FAMS @F0013@
 1 NOTE @N0022@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:55
+2 DATE 24 FEB 2025
+3 TIME 00:58:25
 0 @I0031@ INDI
-1 NAME Виктор /Астафуров/
+1 NAME Виктор /Астафуров/ Николаевич
 2 TYPE birth
 2 GIVN Виктор
 2 SURN Астафуров
+2 NSFX Николаевич
 1 SEX M
 1 BIRT
 2 DATE 1920
@@ -941,13 +993,14 @@
 1 OBJE @O0048@
 1 NOTE @N0023@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:39
+2 DATE 24 FEB 2025
+3 TIME 00:51:53
 0 @I0032@ INDI
-1 NAME Ольга /Астафурова/
+1 NAME Ольга /Астафурова/ Николаевна
 2 TYPE birth
 2 GIVN Ольга
 2 SURN Астафурова
+2 NSFX Николаевна
 1 SEX F
 1 BIRT
 2 DATE 30 NOV 1921
@@ -961,40 +1014,44 @@
 1 OBJE @O0112@
 1 NOTE @N0024@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:39
+2 DATE 24 FEB 2025
+3 TIME 00:53:09
 0 @I0033@ INDI
-1 NAME Наталия /--/
+1 NAME Наталия /--/ Викторовна
 2 TYPE birth
 2 GIVN Наталия
 2 SURN --
+2 NSFX Викторовна
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1956
 1 FAMS @F0012@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 07:16:11
+2 DATE 24 FEB 2025
+3 TIME 00:51:07
 0 @I0036@ INDI
-1 NAME Владимир /Попов/
+1 NAME Владимир /Попов/ Алексеевич
 2 TYPE birth
 2 GIVN Владимир
 2 SURN Попов
+2 NSFX Алексеевич
 1 SEX M
 1 BIRT
 2 DATE 1928
 1 FAMC @F0005@
 2 PEDI birth
+1 FAMS @F0025@
 1 OBJE @O0017@
 1 NOTE @N0033@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:23
+2 DATE 24 FEB 2025
+3 TIME 15:00:40
 0 @I0037@ INDI
-1 NAME Елена /Сизоненко/
+1 NAME Елена /Сизоненко/ Никитична
 2 TYPE birth
 2 GIVN Елена
 2 SURN Сизоненко
+2 NSFX Никитична
 1 SEX F
 1 BIRT
 2 DATE 18 APR 1948
@@ -1013,14 +1070,16 @@
 1 OBJE @O0145@
 1 OBJE @O0150@
 1 WWW https://vk.com/id9719305
+1 NOTE @N0049@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 19:25:10
+2 DATE 24 FEB 2025
+3 TIME 22:09:03
 0 @I0038@ INDI
-1 NAME Юрий /Сизоненко/
+1 NAME Юрий /Сизоненко/ Николаевич
 2 TYPE birth
 2 GIVN Юрий
 2 SURN Сизоненко
+2 NSFX Николаевич
 1 SEX M
 1 FAMC @F0018@
 2 PEDI birth
@@ -1028,13 +1087,14 @@
 1 OBJE @O0041@
 1 NOTE @N0035@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:26:07
+2 DATE 24 FEB 2025
+3 TIME 00:57:28
 0 @I0039@ INDI
-1 NAME Виктор /Иванов/
+1 NAME Виктор /Иванов/ Александрович
 2 TYPE birth
 2 GIVN Виктор
 2 SURN Иванов
+2 NSFX Александрович
 2 NPFX протоиерей
 1 SEX M
 1 BIRT
@@ -1060,8 +1120,8 @@
 1 OBJE @O0003@
 1 OBJE @O0004@
 1 CHAN
-2 DATE 11 NOV 2024
-3 TIME 20:05:39
+2 DATE 24 FEB 2025
+3 TIME 00:53:52
 0 @I0040@ INDI
 1 NAME Никита /Фадин/
 2 TYPE birth
@@ -1073,22 +1133,24 @@
 2 DATE 11 NOV 2024
 3 TIME 21:29:12
 0 @I0041@ INDI
-1 NAME Анастасия //
+1 NAME Анастасия // Семёновна
 2 TYPE birth
 2 GIVN Анастасия
+2 NSFX Семёновна
 2 NICK тётя Тася
 1 SEX F
 1 FAMC @F0013@
 2 PEDI birth
 1 OBJE @O0080@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 00:57:12
+2 DATE 24 FEB 2025
+3 TIME 00:51:20
 0 @I0042@ INDI
-1 NAME Наталья /Астафурова Гурова/
+1 NAME Наталья /Астафурова Гурова/ Викторовна
 2 TYPE birth
 2 GIVN Наталья
 2 SURN Астафурова, Гурова
+2 NSFX Викторовна
 1 SEX F
 1 BIRT
 2 DATE 1952
@@ -1100,13 +1162,14 @@
 1 OBJE @O0109@
 1 OBJE @O0110@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:37:18
+2 DATE 24 FEB 2025
+3 TIME 00:52:37
 0 @I0043@ INDI
-1 NAME Марина /Искрицкая/
+1 NAME Марина /Искрицкая/ Николаевна
 2 TYPE birth
 2 GIVN Марина
 2 SURN Искрицкая
+2 NSFX Николаевна
 1 SEX F
 1 BIRT
 2 DATE ABT 1976
@@ -1124,13 +1187,14 @@
 1 OBJE @O0144@
 1 OBJE @O0142@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:51:00
+2 DATE 24 FEB 2025
+3 TIME 00:54:13
 0 @I0044@ INDI
-1 NAME Максим /Искрицкий/
+1 NAME Максим /Искрицкий/ Николаевич
 2 TYPE birth
 2 GIVN Максим
 2 SURN Искрицкий
+2 NSFX Николаевич
 1 NAME  //
 2 TYPE birth
 1 SEX M
@@ -1145,22 +1209,24 @@
 3 CTRY Россия
 1 FAMC @F0015@
 2 PEDI birth
+1 FAMS @F0030@
 1 OBJE @O0105@
 1 OBJE @O0040@
 1 OBJE @O0151@
 1 OBJE @O0145@
 1 OBJE @O0135@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 14:38:32
+2 DATE 24 FEB 2025
+3 TIME 22:16:27
 0 @I0045@ INDI
-1 NAME Николай /Сизоненко/
+1 NAME Николай /Сизоненко/ Никитич
 2 TYPE birth
 2 GIVN Николай
 2 SURN Сизоненко
+2 NSFX Никитич
 1 SEX M
 1 BIRT
-2 DATE ABT 1952
+2 DATE ABT 1950
 2 PLAC Кировск, Россия
 3 MAP
 4 LATI N67.61417
@@ -1168,7 +1234,7 @@
 2 ADDR
 3 CTRY Россия
 1 DEAT
-2 DATE ABT 1997
+2 DATE 1996
 1 FACT желудка
 2 TYPE рак
 1 FAMC @F0001@
@@ -1176,8 +1242,8 @@
 1 FAMS @F0018@
 1 NOTE @N0034@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:36:43
+2 DATE 24 FEB 2025
+3 TIME 21:48:38
 0 @I0046@ INDI
 1 NAME Иван /Кантонистый/
 2 TYPE birth
@@ -1189,21 +1255,23 @@
 2 DATE 12 NOV 2024
 3 TIME 21:56:28
 0 @I0047@ INDI
-1 NAME Владимир /Кантонистый/
+1 NAME Владимир /Кантонистый/ Иванович
 2 TYPE birth
 2 GIVN Владимир
 2 SURN Кантонистый
+2 NSFX Иванович
 1 SEX M
 1 FAMC @F0016@
 2 PEDI birth
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:56:28
+2 DATE 24 FEB 2025
+3 TIME 00:54:44
 0 @I0048@ INDI
-1 NAME Иван /Савченко/
+1 NAME Иван /Савченко/ Леонтьевич
 2 TYPE birth
 2 GIVN Иван
 2 SURN Савченко
+2 NSFX Леонтьевич
 1 SEX M
 1 BIRT
 2 DATE 1911
@@ -1214,19 +1282,20 @@
 1 OBJE @O0113@
 1 OBJE @O0114@
 1 CHAN
-2 DATE 14 NOV 2024
-3 TIME 01:56:00
+2 DATE 24 FEB 2025
+3 TIME 00:56:30
 0 @I0049@ INDI
-1 NAME Тамара /-----/
+1 NAME Тамара /-----/ Ивановна
 2 TYPE birth
 2 GIVN Тамара
 2 SURN -----
+2 NSFX Ивановна
 1 SEX F
 1 FAMS @F0014@
 1 OBJE @O0110@
 1 CHAN
-2 DATE 14 NOV 2024
-3 TIME 01:53:46
+2 DATE 24 FEB 2025
+3 TIME 00:51:30
 0 @I0050@ INDI
 1 NAME Галина /--/
 2 TYPE birth
@@ -1241,10 +1310,11 @@
 2 DATE 15 NOV 2024
 3 TIME 13:39:53
 0 @I0051@ INDI
-1 NAME Людмила /Потапова/
+1 NAME Людмила /Потапова/ Александровна
 2 TYPE birth
 2 GIVN Людмила
 2 SURN Потапова
+2 NSFX Александровна
 1 SEX F
 1 BIRT
 2 DATE 31 MAY 1957
@@ -1270,8 +1340,8 @@
 1 OBJE @O0052@
 1 NOTE @N0038@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 16:05:22
+2 DATE 24 FEB 2025
+3 TIME 00:55:27
 0 @I0052@ INDI
 1 NAME Евгений /Рудаков/
 2 TYPE birth
@@ -1285,16 +1355,399 @@
 2 DATE 15 NOV 2024
 3 TIME 14:39:00
 0 @I0053@ INDI
-1 NAME Николай /Искрицкий/
+1 NAME Николай /Искрицкий/ Адамович
 2 TYPE birth
 2 GIVN Николай
 2 SURN Искрицкий
+2 NSFX Адамович
 1 SEX M
+1 BIRT
+2 DATE 1947
+1 DEAT
+2 DATE 1997
+1 FAMC @F0026@
+2 PEDI birth
 1 FAMS @F0015@
 1 OBJE @O0152@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 15:16:57
+2 DATE 24 FEB 2025
+3 TIME 22:06:32
+0 @I0054@ INDI
+1 NAME Василий /Рыбаков/
+2 TYPE birth
+2 GIVN Василий
+2 SURN Рыбаков
+1 SEX M
+1 FAMS @F0021@
+1 CHAN
+2 DATE 21 FEB 2025
+3 TIME 15:36:55
+0 @I0055@ INDI
+1 NAME Анна /-/ Андреевна
+2 TYPE birth
+2 GIVN Анна
+2 SURN -
+2 NSFX Андреевна
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 FAMS @F0022@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 00:50:50
+0 @I0056@ INDI
+1 NAME Михаил /Астафуров/ Фёдорович
+2 TYPE birth
+2 GIVN Михаил
+2 SURN Астафуров
+2 NSFX Фёдорович
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 FAMC @F0022@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 00:53:27
+0 @I0057@ INDI
+1 NAME Яков /Астафуров/ Фёдорович
+2 TYPE birth
+2 GIVN Яков
+2 SURN Астафуров
+2 NSFX Фёдорович
+1 SEX M
+1 BIRT
+2 DATE 1916
+1 FAMC @F0022@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 00:53:39
+0 @I0058@ INDI
+1 NAME Виктор /Астафуров/ Фёдорович
+2 TYPE birth
+2 GIVN Виктор
+2 SURN Астафуров
+2 NSFX Фёдорович
+1 SEX M
+1 BIRT
+2 DATE 1918
+1 FAMC @F0022@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 00:53:18
+0 @I0059@ INDI
+1 NAME Герасим /Сизоненко/
+2 TYPE birth
+2 GIVN Герасим
+2 SURN Сизоненко
+1 SEX M
+1 FAMS @F0023@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 18:43:06
+0 @I0060@ INDI
+1 NAME Мария /-/ Павловна
+2 TYPE birth
+2 GIVN Мария
+2 SURN -
+2 NSFX Павловна
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 FAMS @F0024@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @I0061@ INDI
+1 NAME Александр /Астафуров/ Алексеевич
+2 TYPE birth
+2 GIVN Александр
+2 SURN Астафуров
+2 NSFX Алексеевич
+1 SEX M
+1 BIRT
+2 DATE 1922
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @I0062@ INDI
+1 NAME Владимир /Астафуров/ Алексеевич
+2 TYPE birth
+2 GIVN Владимир
+2 SURN Астафуров
+2 NSFX Алексеевич
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @I0063@ INDI
+1 NAME Анастасия /Астафурова/ Алексеевна
+2 TYPE birth
+2 GIVN Анастасия
+2 SURN Астафурова
+2 NSFX Алексеевна
+1 SEX F
+1 BIRT
+2 DATE 1928
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @I0064@ INDI
+1 NAME Пётр /Астафуров/ Алексеевич
+2 TYPE birth
+2 GIVN Пётр
+2 SURN Астафуров
+2 NSFX Алексеевич
+1 SEX M
+1 BIRT
+2 DATE 1929
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @I0065@ INDI
+1 NAME Алексей /Попов/ Владимирович
+2 TYPE birth
+2 GIVN Алексей
+2 SURN Попов
+2 NSFX Владимирович
+1 SEX M
+1 FAMC @F0025@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 15:00:40
+0 @I0066@ INDI
+1 NAME Нина /Литовская/ Ивановна
+2 TYPE birth
+2 GIVN Нина
+2 SURN Литовская
+2 NSFX Ивановна
+1 SEX F
+1 BIRT
+2 DATE 1917
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0026@
+1 NOTE @N0047@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:04:00
+0 @I0067@ INDI
+1 NAME Адам /Искрицкий/ Семёнович
+2 TYPE birth
+2 GIVN Адам
+2 SURN Искрицкий
+2 NSFX Семёнович
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 FAMS @F0026@
+1 NOTE @N0048@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:04:24
+0 @I0068@ INDI
+1 NAME Иван /Литовский/
+2 TYPE birth
+2 GIVN Иван
+2 SURN Литовский
+1 SEX M
+1 FAMS @F0027@
+1 NOTE @N0044@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 17:39:28
+0 @I0069@ INDI
+1 NAME Иван /Иванов/ Иванович
+2 TYPE birth
+2 GIVN Иван
+2 SURN Иванов
+2 NSFX Иванович
+1 SEX M
+1 FAMS @F0028@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 18:16:02
+0 @I0070@ INDI
+1 NAME Елена // Алексеевна
+2 TYPE birth
+2 GIVN Елена
+2 NSFX Алексеевна
+1 SEX F
+1 FAMS @F0028@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:59:03
+0 @I0071@ INDI
+1 NAME Татьяна /Клименко/
+2 TYPE birth
+2 GIVN Татьяна
+2 SURN Клименко
+1 SEX F
+1 FAMS @F0023@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 18:43:41
+0 @I0072@ INDI
+1 NAME Таисия /Рудакова/ Евгеньевна
+2 TYPE birth
+2 GIVN Таисия
+2 SURN Рудакова
+2 NSFX Евгеньевна
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:29:02
+0 @I0073@ INDI
+1 NAME Артём /Рудаков/ Евгеньевич
+2 TYPE birth
+2 GIVN Артём
+2 SURN Рудаков
+2 NSFX Евгеньевич
+1 SEX M
+1 BIRT
+2 DATE 2007
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:29:02
+0 @I0074@ INDI
+1 NAME Майя /Рудакова/ Евгеньевна
+2 TYPE birth
+2 GIVN Майя
+2 SURN Рудакова
+2 NSFX Евгеньевна
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:29:02
+0 @I0075@ INDI
+1 NAME Георгий /Рудаков/ Евгеньевич
+2 TYPE birth
+2 GIVN Георгий
+2 SURN Рудаков
+2 NSFX Евгеньевич
+1 SEX M
+1 BIRT
+2 DATE 2018
+1 FAMC @F0019@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:29:02
+0 @I0076@ INDI
+1 NAME Антонина /Иванова/ Ивановна
+2 TYPE birth
+2 GIVN Антонина
+2 SURN Иванова
+2 NSFX Ивановна
+1 SEX F
+1 FACT груди
+2 TYPE рак
+1 FAMC @F0028@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:31:41
+0 @I0077@ INDI
+1 NAME Любовь /Сизоненко/ Никитична
+2 TYPE birth
+2 GIVN Любовь
+2 SURN Сизоненко
+2 NSFX Никитична
+1 SEX F
+1 BIRT
+2 DATE BEF 1940
+1 FAMC @F0029@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:44:18
+0 @I0078@ INDI
+1 NAME Валентина /Литовская/ Ивановна
+2 TYPE birth
+2 GIVN Валентина
+2 SURN Литовская
+2 NSFX Ивановна
+1 SEX F
+1 BIRT
+2 DATE AFT 1917
+1 FAMC @F0027@
+2 PEDI birth
+1 NOTE @N0046@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:02:56
+0 @I0079@ INDI
+1 NAME Иван /Литовский/ Иванович
+2 TYPE birth
+2 GIVN Иван
+2 SURN Литовский
+2 NSFX Иванович
+1 SEX M
+1 FAMC @F0027@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:01:24
+0 @I0080@ INDI
+1 NAME Виктория //
+2 TYPE birth
+2 GIVN Виктория
+1 SEX F
+1 FAMS @F0030@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:16:27
+0 @I0081@ INDI
+1 NAME Мария /Искрицкая/ Максимовна
+2 TYPE birth
+2 GIVN Мария
+2 SURN Искрицкая
+2 NSFX Максимовна
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:16:27
+0 @I0082@ INDI
+1 NAME Никита /Искрицкий/ Максимович
+2 TYPE birth
+2 GIVN Никита
+2 SURN Искрицкий
+2 NSFX Максимович
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F0030@
+2 PEDI birth
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:16:27
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -1305,12 +1758,14 @@
 0 @F0001@ FAM
 1 HUSB @I0005@
 1 WIFE @I0006@
+1 MARR
+2 DATE 1946
 1 CHIL @I0004@
 1 CHIL @I0037@
 1 CHIL @I0045@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:35:34
+2 DATE 24 FEB 2025
+3 TIME 21:48:38
 0 @F0002@ FAM
 1 HUSB @I0008@
 1 WIFE @I0007@
@@ -1431,28 +1886,137 @@
 0 @F0019@ FAM
 1 HUSB @I0052@
 1 WIFE @I0043@
+1 CHIL @I0072@
+1 CHIL @I0073@
+1 CHIL @I0074@
+1 CHIL @I0075@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:35:00
+2 DATE 24 FEB 2025
+3 TIME 21:29:02
 0 @F0020@ FAM
 1 HUSB @I0004@
 1 WIFE @I0051@
 1 CHAN
 2 DATE 15 NOV 2024
 3 TIME 13:37:57
+0 @F0021@ FAM
+1 HUSB @I0054@
+1 CHIL @I0013@
+1 CHAN
+2 DATE 21 FEB 2025
+3 TIME 15:36:55
+0 @F0022@ FAM
+1 HUSB @I0019@
+1 WIFE @I0055@
+1 CHIL @I0056@
+1 CHIL @I0057@
+1 CHIL @I0058@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 00:43:20
+0 @F0023@ FAM
+1 HUSB @I0059@
+1 WIFE @I0071@
+1 CHIL @I0005@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 18:43:41
+0 @F0024@ FAM
+1 HUSB @I0020@
+1 WIFE @I0060@
+1 CHIL @I0061@
+1 CHIL @I0062@
+1 CHIL @I0063@
+1 CHIL @I0064@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 01:05:44
+0 @F0025@ FAM
+1 HUSB @I0036@
+1 CHIL @I0065@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 15:00:40
+0 @F0026@ FAM
+1 HUSB @I0067@
+1 WIFE @I0066@
+1 MARR
+2 DATE 1946
+1 CHIL @I0053@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:06:32
+0 @F0027@ FAM
+1 HUSB @I0068@
+1 CHIL @I0066@
+1 CHIL @I0078@
+1 CHIL @I0079@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:01:24
+0 @F0028@ FAM
+1 HUSB @I0069@
+1 WIFE @I0070@
+1 CHIL @I0006@
+1 CHIL @I0076@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:31:41
+0 @F0029@ FAM
+1 HUSB @I0005@
+1 CHIL @I0077@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 21:43:09
+0 @F0030@ FAM
+1 HUSB @I0044@
+1 WIFE @I0080@
+1 CHIL @I0081@
+1 CHIL @I0082@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 22:16:27
 0 @S0000@ SOUR
 1 TITL стихотворение
 1 AUTH Людмила Разумовская
 1 CHAN
 2 DATE 11 NOV 2024
 3 TIME 20:45:34
+0 @S0001@ SOUR
+1 TITL Сибирские родственники
+1 AUTH Ольга и Вера
+1 NOTE @N0043@
+1 CHAN
+2 DATE 24 FEB 2025
+3 TIME 14:54:58
 0 @N0000@ NOTE Писарь. Жил в селе Украинской СР, пришли немцы и угнали работат
-1 CONC ь в Германию. Потом фильтрация, не пустили его обратно на Украину, отпра
-1 CONC вили на север.
-0 @N0001@ NOTE был умерший новорожденным брат-близнец. из Псковщины, Старая Русса
+1 CONC ь в Германию (на сельскохозяйственных работах). Потом фильтрация, не пус
+1 CONC тили его обратно на Украину, отправили на север. — Вера
+1 CONT 
+1 CONT Рвение к учёбе. Учился семь классов, очень хорошо, замещал учителя, пост
+1 CONC упил в техникум, учился на агронома, закончил и женился на женщине, пото
+1 CONC м пришла война. Родилась дочь Люба. 
+1 CONT 
+1 CONT Обиделся за то, что не пустили на родину.
+1 CONT 
+1 CONT в Кировске встретил Анастасию Ивановну и они поженились в 1946. За Поляр
+1 CONC ным кругом платили раза в три больше, чем в средней полосе России, а ю
+1 CONC г нищал, север развивался.
+1 CONT 
+1 CONT Работал на рудниках
+0 @N0001@ NOTE был умерший новорожденным брат-близнец. из Псковщины, Старая Руса
 1 CONC . Когда была подростком, вывезли в Мурманскую область, выгрузили, земл
 1 CONC я мёрзлая, в землянке стали жить. была мельница. "ну какие мы кулаки, м
-1 CONC ы сами всю жизнь работаем здесь"
+1 CONC ы сами всю жизнь работаем здесь" — Вера и мама
+1 CONT 
+1 CONT закончила 3 класса, работала "на второй ферме", а потом до самого переез
+1 CONC да в Осиповичи в Ботаническом саду (1967-1974) города Кировска, которы
+1 CONC й на тот момент был "самым северным в мире ботаническом саду на открыто
+1 CONC м грунте". Была там как мама заботливая, должность "препаратор" в лабора
+1 CONC тории у Людмилы Моисеевны.
+1 CONT 
+1 CONT в Осиповичах был кооперативный дом на пенсию, дед ещё работал в какой-т
+1 CONC о кочегарке — Марина
 0 @N0002@ NOTE прочитала папину библиотеку в детстве. отправили в Москву, чтобы за
 1 CONC терялась в большом городе без документов, притворилась крестьянкой, чтоб
 1 CONC ы не убили. Сохранила только фотографию матери, вшила её в матрас. расти
@@ -1555,7 +2119,8 @@
 1 CONT Московский медицинский стоматологический институт 1991-1997
 0 @N0033@ NOTE младший брат Раисы. "женился на еврейке, объевреился"
 0 @N0034@ NOTE был директором на заводе стали, умер в 45 лет от онкологии желудка
-1 CONC , год неизвестен
+1 CONC , "была дичайшая изжога, всегда носил с собой пачку соды, но к врачам н
+1 CONC е обращался" Марина
 0 @N0035@ NOTE Жили в Донецке
 0 @N0036@ NOTE Жили в Донецке
 0 @N0038@ NOTE «Я наконец-то нашёл женщину, которая похожа на мою маму. Я искал е
@@ -1570,6 +2135,103 @@
 1 CONC янская Голгофа. Книга памяти репрессированного крестьянства Омской облас
 1 CONC ти
 1 CONT ISBN 978-5-8042-0306-2
+0 @N0043@ NOTE Злата, передаю тебе сведения о наших родственниках со стороны мое
+1 CONC й мамы, Астафуровой Елизаветы Николаевны, которые сообщила мне ее сестр
+1 CONC а Астафурова Ольга Николаевна в письме от 14.12.2004г. Курсивом – мой те
+1 CONC кст.
+1 CONT 
+1 CONT  «…Вера, твои прадеды родились в Самарской губернии, до революции 1917
+1 CONC г переехали в Сибирь для освоения земель. Занимались крестьянством. Тво
+1 CONC и бабушка и дедушка родились в Сибири, Омская область, села Копейкин
+1 CONC о и Фадино. Названия сел даны, по-видимому, по фамилиям помещиков или пе
+1 CONC рвых переселенцев»  (Значит, в Сибирь их предки переехали примерно в 187
+1 CONC 0-90е годы, не позднее, т.к. мои бабушка и дедушка родились в самые посл
+1 CONC едние годы 18го века).
+1 CONT 
+1 CONT Напоминаю, что жили они до 1930г в селе Копейкино Таврического района Ом
+1 CONC ской области. В 1930г переехали с другими родственниками в г.Сталинаба
+1 CONC д (Таджикская ССР), ныне г.Душанбе.
+1 CONT 
+1 CONT Мой дед «Астафуров Николай Андреевич (1897 – 1961гг): 3 брата и 1 сестра
+1 CONC .
+1 CONT 
+1 CONT - Федор Андреевич Астафуров – 3 сына, двое погибли в ВОВ на фронте, трет
+1 CONC ий жил в Оренбурге.
+1 CONT 
+1 CONT - Алексей Андреевич Астафуров – 1 сын и 1 дочь, жили в Омске, судьба неи
+1 CONC звестна.
+1 CONT 
+1 CONT - Степан Андреевич Астафуров – жил в Ростове-на-Дону. В годы войны был п
+1 CONC овешен гитлеровцами на площади, т.к. был коммунист и партизан.
+1 CONT 
+1 CONT - сестра Анастасия Андреевна Астафурова умерла в молодости, по-видимому
+1 CONC , от туберкулеза.»
+1 CONT 
+1 CONT Моя бабушка Фадина Любовь Никитична (25.08.1897 – ..1986г, 89лет ) (я н
+1 CONC е знаю, была ли у нее фамилия мужа). 
+1 CONT 
+1 CONT «У твоего, Вера, прадеда, отца Любови Никитичны, было 4 сына и 4 дочери:
+1 CONT 
+1 CONT - Федор Никитич в 1938г был арестован, осужден и умер в тюрьме. Скорее в
+1 CONC сего осужден был за религию.
+1 CONT 
+1 CONT - Иван, Василий и Егор Никитичи жили  в г. Фрунзе, Киргизская ССР (нын
+1 CONC е Бишкек, Кыргызстан).
+1 CONT 
+1 CONT - Пелагея Никитична, жила в Бишкеке, умерла от болезни. У нее было 2 сын
+1 CONC а и одна дочь. Один сын погиб на фронте в годы войны, второй служил во ф
+1 CONC лоте, а погиб в автомобильной аварии после войны. Дочь с семьей жила в
+1 CONC о Пскове, переписка прекратилась в 1980г.
+1 CONT 
+1 CONT - Мария Никитична, умерла в молодом возрасте от болезни. Ее два сына жил
+1 CONC и в Новосибирске.
+1 CONT - Матрена Никитична (я ее помню, она прожила до 92лет в Душанбе, вырасти
+1 CONC ла дочь, нянчила внучку, правнучку). У нее была одна дочь Таисия. (О сем
+1 CONC ье тети Таси, если хочешь, расскажу в другом файле).
+1 CONT 
+1 CONT - Любовь Никитична (моя бабушка). Родилась в селе Фадино Омской губернии
+1 CONC , вышла замуж и жила с мужем и детьми в селе Копейкино. С 1930г жила в Д
+1 CONC ушанбе. У нее было 2 дочери и один сын.
+1 CONT 
+1 CONT Дальше о семье моей бабушки и дедушки пишу уже сама.
+1 CONT 
+1 CONT - Виктор Николаевич Астафуров (1920-2000гг). Врач невропатолог, жили в К
+1 CONC расногорске МО. Его дочь (моя двоюродная сестра) Наталья Викторовна Гуро
+1 CONC ва (Астафурова) 1952г.р. Связь с ней я потеряла после похорон моей мамы
+1 CONC , т.к. она перестала отвечать на звонки. У Натальи сын Михаил (от первог
+1 CONC о брака) и дочь Мария.
+1 CONT 
+1 CONT - Ольга Николаевна Астафурова (30.11.1921 – 12.10.2012), врач рентгеноло
+1 CONC г  туберкулезного диспансера, Душанбе, (училась в медицинском институт
+1 CONC е г. Алма-Ата, Казахской ССР).  Детей не было.
+1 CONT 
+1 CONT - Елизавета Николаевна Астафурова (моя мама, твоя прабабушка) (27.11.192
+1 CONC 3 - 11.06.2001) (прах захоронен на Николо-Архангельском кладбище).  Посл
+1 CONC е окончания школы в 1942г поступила в Одесский технологический институ
+1 CONC т консервной промышленности, специальность Инженер-технолог. Институ
+1 CONC т в это время был в эвакуации в Сталинабаде, т.к. шла война, и Одессу ок
+1 CONC купировали фашисты. После освобождения Одессы в 1943 году моя мама вмест
+1 CONC е с институтом переехала в Одессу, где и защитила диплом в 1947г. Вышл
+1 CONC а замуж за моего отца, Черного Ивана Макаровича, с которым познакомилис
+1 CONC ь в Сталинабаде во время войны.  Жили они сначала в г.Харькове, где оте
+1 CONC ц учился в Высшем Авиационно-Инженерном Военном Училище (ХВАИВУ). Посл
+1 CONC е окончания Иван Макарович получил специальность инженер-механик ВВС п
+1 CONC о самолетам и авиадвигателям и служил в Советской Армии.
+1 CONT 
+1 CONT Я родилась 07.07.1948г в Харькове.
+1 CONT 
+0 @N0044@ NOTE священнослужитель
+0 @N0045@ NOTE данные разнятся: по паспорту 1917, мама говорила, что 1920, по данн
+1 CONC ым из архива о реабилитации со времён перестройки 1919
+0 @N0046@ NOTE "в этой школе бывший наш дом" о доме в Опочке
+0 @N0047@ NOTE рано вступила в коммунистическую партию, карьеристка, после войны п
+1 CONC оступила в автотранспортный цех ПО Апатит. была грамотная, но неизвестно
+1 CONC , какое училище закончила, проработала экономистом, закончила как главны
+1 CONC й экономист.
+0 @N0048@ NOTE закончил фельдшерское училище после войны. прошёл две войны, воева
+1 CONC л от начала до конца, закончил войну в Европе, был раскулачен в Кировск.
+0 @N0049@ NOTE работала в Кировском филиале Международной Академии Предприниматель
+1 CONC ства
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
