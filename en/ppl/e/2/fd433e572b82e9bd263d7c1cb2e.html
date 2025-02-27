@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Mainz" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Nebraska" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -82,6 +84,13 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="IndividualDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../en/img/1/0/fd4d968c97c59603eeb81b30401.html" title="Нина Ивановна с сыном">
+						<img alt="Нина Ивановна с сыном" src="../../../../thumb/1/0/fd4d968c97c59603eeb81b3040150,0-81,61.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Нина Ивановна Литовская<sup><small></small></sup></h3>
 			<div id="summaryarea">
 				<table class="infolist">
@@ -257,6 +266,71 @@ function GoToTop() {
 					</tr>
 				</table>
 			</div>
+			<div class="subsection" id="indivgallery">
+				<h4>Media</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/1/0/fd4d968c97c59603eeb81b30401.png" />
+						</div>
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(2)" src="../../../../thumb/f/d/fd4d90509dd1d69d4ba606a4ddf.png" />
+						</div>
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(3)" src="../../../../thumb/2/4/fd4d96e8d244f279bbe024fcd42.png" />
+						</div>
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(4)" src="../../../../thumb/5/9/fd4da1ab6323aea9a572e372495.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/4 - Нина Ивановна с сыном
+								</div>
+								<a href="../../../../en/img/1/0/fd4d968c97c59603eeb81b30401.html">
+									<img src="../../../../images/1/0/fd4d968c97c59603eeb81b30401.jpg" style="width:100%" />
+								</a>
+							</div>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								2/4 - Адам Семёнович и Нина Ивановна
+								</div>
+								<a href="../../../../en/img/f/d/fd4d90509dd1d69d4ba606a4ddf.html">
+									<img src="../../../../images/f/d/fd4d90509dd1d69d4ba606a4ddf.jpg" style="width:100%" />
+								</a>
+							</div>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								3/4 - Елена и Николай свадьба
+								</div>
+								<a href="../../../../en/img/2/4/fd4d96e8d244f279bbe024fcd42.html">
+									<img src="../../../../images/2/4/fd4d96e8d244f279bbe024fcd42.jpg" style="width:100%" />
+								</a>
+							</div>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								4/4 - А С и Н И, сыну 1г 7 мес
+								</div>
+								<a href="../../../../en/img/5/9/fd4da1ab6323aea9a572e372495.html">
+									<img src="../../../../images/5/9/fd4da1ab6323aea9a572e372495.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
+					</div>
+				</div>
+				<div class="fullclear"></div>
+			</div>
 			<div class="subsection" id="pedigree">
 				<h4>Pedigree</h4>
 				<ol class="pedigreegen" id="toggle_pedigree" style="display:block">
@@ -291,8 +365,17 @@ function GoToTop() {
 				<div class="tree" id="toggle_anc" style="display:block">
 					<div id="treeContainer" style="width:614px; height:150px; top: 0px">
 						<div class="boxbg female AncCol0" style="top: 5px; left: 6px;">
-							<a class="noThumb" href="../../../ppl/e/2/fd433e572b82e9bd263d7c1cb2e.html">
-							Нина Ивановна Литовская<br>*1917<br>+...
+							<a class="thumbnail" href="../../../ppl/e/2/fd433e572b82e9bd263d7c1cb2e.html">
+								<table class="table">
+									<tr>
+										<td class="img">
+											<img alt="Img: Нина Ивановна Литовская" src="../../../../thumb/1/0/fd4d968c97c59603eeb81b3040150,0-81,61.png" />
+										</td>
+										<td class="name">
+										Нина Ивановна Литовская<br>*1917<br>+...
+										</td>
+									</tr>
+								</table>
 							</a>
 						</div>
 						<div class="shadow" style="top: 10px; left: 10px;"></div>
@@ -322,7 +405,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Generated by <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Last change was the 2025-02-24 22:04:00
+			Generated by <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Last change was the 2025-02-27 23:05:07
 			</p>
 			<p id="copyright">
 			

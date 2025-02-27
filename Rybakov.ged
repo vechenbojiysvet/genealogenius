@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 25 FEB 2025
-2 TIME 01:13:50
+1 DATE 28 FEB 2025
+2 TIME 00:29:12
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -87,8 +87,8 @@
 1 OBJE @O0005@
 1 NOTE @N0010@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:56:04
+2 DATE 27 FEB 2025
+3 TIME 00:28:58
 0 @I0002@ INDI
 1 NAME Екатерина /Сизоненко/ Валерьевна
 2 TYPE birth
@@ -195,8 +195,8 @@
 2 FORM URL
 2 FILE https://youtu.be/fUgk2Qny91o
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:59:28
+2 DATE 28 FEB 2025
+3 TIME 00:06:07
 0 @I0004@ INDI
 1 NAME Валерий /Сизоненко/ Никитич
 2 TYPE birth
@@ -293,10 +293,13 @@
 1 OBJE @O0042@
 1 OBJE @O0043@
 1 OBJE @O0044@
+1 OBJE @O0166@
+1 OBJE @O0168@
+1 OBJE @O0170@
 1 NOTE @N0000@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 21:43:09
+2 DATE 27 FEB 2025
+3 TIME 23:02:50
 0 @I0006@ INDI
 1 NAME Анастасия /Иванова/ Ивановна
 2 TYPE birth
@@ -340,10 +343,11 @@
 1 OBJE @O0045@
 1 OBJE @O0152@
 1 OBJE @O0033@
+1 OBJE @O0166@
 1 NOTE @N0001@
 1 CHAN
-2 DATE 25 FEB 2025
-3 TIME 00:10:49
+2 DATE 27 FEB 2025
+3 TIME 22:50:08
 0 @I0007@ INDI
 1 NAME Елизавета /Астафурова/ Николаевна
 2 TYPE birth
@@ -560,9 +564,10 @@
 1 OBJE @O0059@
 1 OBJE @O0060@
 1 OBJE @O0072@
+1 OBJE @O0173@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:55:47
+2 DATE 28 FEB 2025
+3 TIME 00:02:59
 0 @I0010@ INDI
 1 NAME Раиса /Попова/ Алексеевна
 2 TYPE birth
@@ -611,26 +616,29 @@
 1 OBJE @O0006@
 1 OBJE @O0018@
 1 OBJE @O0154@
+1 OBJE @O0172@
 1 NOTE @N0002@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:55:13
+2 DATE 28 FEB 2025
+3 TIME 00:00:58
 0 @I0011@ INDI
-1 NAME Алексей /Попов/
+1 NAME Алексей /Попов/ Кузьмич
 2 TYPE birth
 2 GIVN Алексей
 2 SURN Попов
+2 NSFX Кузьмич
 1 SEX M
 1 FAMS @F0005@
 1 NOTE @N0003@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 07:00:45
+2 DATE 27 FEB 2025
+3 TIME 15:42:37
 0 @I0012@ INDI
-1 NAME Александра /Чернавская/
+1 NAME Александра /Чернавская/ Ивановна
 2 TYPE birth
 2 GIVN Александра
 2 SURN Чернавская
+2 NSFX Ивановна
 2 NPFX княгиня
 1 SEX F
 1 BIRT
@@ -641,8 +649,8 @@
 1 OBJE @O0017@
 1 NOTE @N0004@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 07:00:45
+2 DATE 26 FEB 2025
+3 TIME 21:41:10
 0 @I0013@ INDI
 1 NAME Сергей /Рыбаков/ Васильевич
 2 TYPE birth
@@ -685,10 +693,11 @@
 1 OBJE @O0061@
 1 OBJE @O0062@
 1 OBJE @O0063@
+1 OBJE @O0158@
 1 NOTE @N0005@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:55:56
+2 DATE 27 FEB 2025
+3 TIME 14:38:23
 0 @I0014@ INDI
 1 NAME Макар /Чёрный/
 2 TYPE birth
@@ -1018,18 +1027,18 @@
 2 DATE 24 FEB 2025
 3 TIME 00:53:09
 0 @I0033@ INDI
-1 NAME Наталия /--/ Викторовна
+1 NAME Наталия /Цуканова/ Викторовна
 2 TYPE birth
 2 GIVN Наталия
-2 SURN --
+2 SURN Цуканова
 2 NSFX Викторовна
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1956
 1 FAMS @F0012@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:51:07
+2 DATE 27 FEB 2025
+3 TIME 00:28:27
 0 @I0036@ INDI
 1 NAME Владимир /Попов/ Алексеевич
 2 TYPE birth
@@ -1045,8 +1054,8 @@
 1 OBJE @O0017@
 1 NOTE @N0033@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 15:00:40
+2 DATE 27 FEB 2025
+3 TIME 15:42:34
 0 @I0037@ INDI
 1 NAME Елена /Сизоненко/ Никитична
 2 TYPE birth
@@ -1070,11 +1079,13 @@
 1 OBJE @O0135@
 1 OBJE @O0145@
 1 OBJE @O0150@
+1 OBJE @O0166@
+1 OBJE @O0167@
 1 WWW https://vk.com/id9719305
 1 NOTE @N0049@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 22:09:03
+2 DATE 27 FEB 2025
+3 TIME 22:48:03
 0 @I0038@ INDI
 1 NAME Юрий /Сизоненко/ Николаевич
 2 TYPE birth
@@ -1241,10 +1252,11 @@
 1 FAMC @F0001@
 2 PEDI birth
 1 FAMS @F0018@
+1 OBJE @O0161@
 1 NOTE @N0034@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 21:48:38
+2 DATE 27 FEB 2025
+3 TIME 21:36:39
 0 @I0046@ INDI
 1 NAME Иван /Кантонистый/
 2 TYPE birth
@@ -1304,12 +1316,13 @@
 2 SURN --
 1 SEX F
 1 FAMS @F0018@
+1 OBJE @O0161@
 1 OBJE @O0041@
 1 OBJE @O0055@
 1 NOTE @N0036@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:39:53
+2 DATE 27 FEB 2025
+3 TIME 21:37:12
 0 @I0051@ INDI
 1 NAME Людмила /Потапова/ Александровна
 2 TYPE birth
@@ -1370,9 +1383,11 @@
 2 PEDI birth
 1 FAMS @F0015@
 1 OBJE @O0152@
+1 OBJE @O0166@
+1 OBJE @O0171@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 22:06:32
+2 DATE 27 FEB 2025
+3 TIME 23:04:48
 0 @I0054@ INDI
 1 NAME Василий /Рыбаков/
 2 TYPE birth
@@ -1547,10 +1562,14 @@
 1 FAMC @F0027@
 2 PEDI birth
 1 FAMS @F0026@
+1 OBJE @O0165@
+1 OBJE @O0164@
+1 OBJE @O0166@
+1 OBJE @O0171@
 1 NOTE @N0047@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 22:04:00
+2 DATE 27 FEB 2025
+3 TIME 23:05:07
 0 @I0067@ INDI
 1 NAME Адам /Искрицкий/ Семёнович
 2 TYPE birth
@@ -1568,14 +1587,17 @@
 2 ADDR
 3 CTRY Белоруссия
 1 FAMS @F0026@
+1 OBJE @O0164@
+1 OBJE @O0166@
+1 OBJE @O0171@
 1 OBJE
 2 FORM URL
 2 TITL https://base.memo.ru/person/show/1481825
 2 FILE https://ru.openlist.wiki/%D0%98%D1%81%D0%BA%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%90%D0%B4%D0%B0%D0%BC_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(1911)
 1 NOTE @N0048@
 1 CHAN
-2 DATE 25 FEB 2025
-3 TIME 00:52:16
+2 DATE 27 FEB 2025
+3 TIME 23:04:29
 0 @I0068@ INDI
 1 NAME Иван /Литовский/ Иванович
 2 TYPE birth
@@ -1632,9 +1654,10 @@
 1 BIRT
 2 DATE 1892
 1 FAMS @F0028@
+1 OBJE @O0160@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 23:46:59
+2 DATE 27 FEB 2025
+3 TIME 21:35:35
 0 @I0071@ INDI
 1 NAME Татьяна /Клименко/
 2 TYPE birth
@@ -1642,9 +1665,10 @@
 2 SURN Клименко
 1 SEX F
 1 FAMS @F0023@
+1 OBJE @O0163@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 18:43:41
+2 DATE 27 FEB 2025
+3 TIME 22:33:00
 0 @I0072@ INDI
 1 NAME Таисия /Рудакова/ Евгеньевна
 2 TYPE birth
@@ -1714,9 +1738,10 @@
 2 TYPE рак
 1 FAMC @F0028@
 2 PEDI birth
+1 OBJE @O0159@
 1 CHAN
-2 DATE 25 FEB 2025
-3 TIME 00:10:49
+2 DATE 27 FEB 2025
+3 TIME 21:34:54
 0 @I0077@ INDI
 1 NAME Любовь /Сизоненко/ Никитична
 2 TYPE birth
@@ -1728,9 +1753,10 @@
 2 DATE BEF 1940
 1 FAMC @F0029@
 2 PEDI birth
+1 OBJE @O0169@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 21:44:18
+2 DATE 27 FEB 2025
+3 TIME 23:01:45
 0 @I0078@ INDI
 1 NAME Валентина /Литовская/ Ивановна
 2 TYPE birth
@@ -1848,9 +1874,10 @@
 2 DATE 1928
 1 FAMC @F0028@
 2 PEDI birth
+1 OBJE @O0162@
 1 CHAN
-2 DATE 25 FEB 2025
-3 TIME 00:10:49
+2 DATE 27 FEB 2025
+3 TIME 22:32:23
 0 @I0086@ INDI
 1 NAME Иван /Иванов/ Иванович
 2 TYPE birth
@@ -1865,6 +1892,91 @@
 1 CHAN
 2 DATE 25 FEB 2025
 3 TIME 00:16:15
+0 @I0087@ INDI
+1 NAME Тамара /Попова/ Алексеевна
+2 TYPE birth
+2 GIVN Тамара
+2 SURN Попова
+2 NSFX Алексеевна
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1920
+1 DEAT
+2 DATE ABT 1995
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0031@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:49:45
+0 @I0088@ INDI
+1 NAME Иосиф /Попов/ Борисович
+2 TYPE birth
+2 GIVN Иосиф
+2 SURN Попов
+2 NSFX Борисович
+1 SEX M
+1 FAMS @F0031@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:49:45
+0 @I0089@ INDI
+1 NAME Алексей /Попов/ Иосифович
+2 TYPE birth
+2 GIVN Алексей
+2 SURN Попов
+2 NSFX Иосифович
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0032@
+1 OBJE @O0172@
+1 CHAN
+2 DATE 28 FEB 2025
+3 TIME 00:00:06
+0 @I0090@ INDI
+1 NAME Тамара /-/ Викторовна
+2 TYPE birth
+2 GIVN Тамара
+2 SURN -
+2 NSFX Викторовна
+1 SEX F
+1 BIRT
+2 DATE 1946
+1 FAMS @F0032@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:56:56
+0 @I0091@ INDI
+1 NAME Татьяна /Попова/ Алексеевна
+2 TYPE birth
+2 GIVN Татьяна
+2 SURN Попова
+2 NSFX Алексеевна
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMC @F0032@
+2 PEDI birth
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:56:23
+0 @I0092@ INDI
+1 NAME Ольга /Попов/ Алексеевна
+2 TYPE birth
+2 GIVN Ольга
+2 SURN Попов
+2 NSFX Алексеевна
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMC @F0032@
+2 PEDI birth
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:56:23
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -1886,10 +1998,12 @@
 0 @F0002@ FAM
 1 HUSB @I0008@
 1 WIFE @I0007@
+1 MARR
+2 DATE 1947
 1 CHIL @I0003@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:35:42
+2 DATE 28 FEB 2025
+3 TIME 00:06:07
 0 @F0003@ FAM
 1 HUSB @I0009@
 1 WIFE @I0002@
@@ -1909,9 +2023,10 @@
 1 WIFE @I0012@
 1 CHIL @I0010@
 1 CHIL @I0036@
+1 CHIL @I0087@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:36:23
+2 DATE 27 FEB 2025
+3 TIME 15:42:34
 0 @F0006@ FAM
 1 HUSB @I0014@
 1 WIFE @I0015@
@@ -1955,10 +2070,12 @@
 0 @F0012@ FAM
 1 HUSB @I0009@
 1 WIFE @I0033@
+1 MARR
+2 DATE 1985
 1 CHIL @I0001@
 1 CHAN
-2 DATE 15 NOV 2024
-3 TIME 13:37:02
+2 DATE 27 FEB 2025
+3 TIME 00:28:58
 0 @F0013@ FAM
 1 WIFE @I0030@
 1 CHIL @I0041@
@@ -2100,6 +2217,21 @@
 1 CHAN
 2 DATE 24 FEB 2025
 3 TIME 22:16:27
+0 @F0031@ FAM
+1 HUSB @I0088@
+1 WIFE @I0087@
+1 CHIL @I0089@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:49:45
+0 @F0032@ FAM
+1 HUSB @I0089@
+1 WIFE @I0090@
+1 CHIL @I0091@
+1 CHIL @I0092@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 15:56:23
 0 @S0000@ SOUR
 1 TITL стихотворение
 1 AUTH Людмила Разумовская
@@ -2153,7 +2285,10 @@
 1 CONT на начало 1971 была жива
 0 @N0005@ NOTE москвич! прошёл две войны, вернулся с кучей трофеев. у него было пя
 1 CONC ть сестёр, он младший брат, не любили Раю, оставили его без наследства (
-1 CONC информация конечно же не проверена)
+1 CONC информация конечно же не проверена) — Вера и мама
+1 CONT 
+1 CONT Был очень талантливый, ловко мастерил руками всякие вещи и за это был пр
+1 CONC иставлен к награде вроде бы Ордена трудового красного знамени — Наталия
 0 @N0006@ NOTE была жена Мария, от неё два ребёнка. Мария погибла, по легенде от р
 1 CONC ук родственницы мужа. Затем был ещё дважды женат (?) последнюю жену тож
 1 CONC е звали Мария
@@ -2356,6 +2491,14 @@
 1 CONC л от начала до конца, закончил войну в Европе, был раскулачен в Кировск.
 0 @N0049@ NOTE работала в Кировском филиале Международной Академии Предприниматель
 1 CONC ства
+0 @N0050@ NOTE "портрет лошади потрясающий, он сделал лошадь, из пластмассы он выл
+1 CONC епил лошадиную морду, причём не абстрактную, а конкретного коня... но эт
+1 CONC о ладно, он в машине Ладе вместо эмблемы ладьи выточил Бабу Ягу на метле
+1 CONC " — Наталия 
+0 @N0051@ NOTE "портрет лошади потрясающий, он сделал лошадь, из пластмассы он выл
+1 CONC епил лошадиную морду, причём не абстрактную, а конкретного коня... но эт
+1 CONC о ладно, он в машине Ладе вместо эмблемы ладьи выточил Бабу Ягу на метле
+1 CONC " — Наталия 
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -3464,4 +3607,117 @@
 1 CHAN
 2 DATE 21 FEB 2025
 3 TIME 01:42:35
+0 @O0158@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/голова коня авторства С.В. Рыбакова.jpg
+2 FORM jpg
+2 TITL голова коня авторства С.В. Рыбакова
+1 NOTE @N0051@
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 14:38:17
+0 @O0159@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Антонина Ивановна Иванова с дочерью Наташей и внучкой Ладой.jpg
+2 FORM jpg
+2 TITL Антонина Ивановна Иванова с дочерью Наташей и внучкой Ладой
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 21:34:50
+0 @O0160@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Елена Алексеевна.jpg
+2 FORM jpg
+2 TITL Елена Алексеевна
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 21:35:14
+0 @O0161@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Николай и Галина Сизоненко.jpg
+2 FORM jpg
+2 TITL Николай и Галина Сизоненко
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 21:36:36
+0 @O0162@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Александр Иванович.jpg
+2 FORM jpg
+2 TITL Александр Иванович
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:32:22
+0 @O0163@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Татьяна Клименко.jpg
+2 FORM jpg
+2 TITL Татьяна Клименко
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:32:56
+0 @O0164@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Адам Семёнович и Нина Ивановна.jpg
+2 FORM jpg
+2 TITL Адам Семёнович и Нина Ивановна
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:34:06
+0 @O0165@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Нина Ивановна с сыном.jpg
+2 FORM jpg
+2 TITL Нина Ивановна с сыном
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:45:00
+0 @O0166@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Елена и Николай свадьба.jpg
+2 FORM jpg
+2 TITL Елена и Николай свадьба
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:45:38
+0 @O0167@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Елена портрет.jpg
+2 FORM jpg
+2 TITL портрет
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:47:51
+0 @O0168@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Никита Герасимович.jpg
+2 FORM jpg
+2 TITL Никита Герасимович
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 22:57:05
+0 @O0169@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Любовь Никитична.jpg
+2 FORM jpg
+2 TITL Любовь Никитична
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 23:01:43
+0 @O0170@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Никита и родственники.jpg
+2 FORM jpg
+2 TITL Никита и родственники
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 23:02:43
+0 @O0171@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/А С и Н И, сыну меньше года.jpg
+2 FORM jpg
+2 TITL А С и Н И, сыну 1г 7 мес
+1 CHAN
+2 DATE 27 FEB 2025
+3 TIME 23:07:09
+0 @O0172@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/дядя Лёша и Рая.jpg
+2 FORM jpg
+2 TITL дядя Лёша и Рая
+1 CHAN
+2 DATE 28 FEB 2025
+3 TIME 00:00:01
+0 @O0173@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/свидетельство о рождении Виктор Рыбаков.jpg
+2 FORM jpg
+2 TITL свидетельство о рождении Виктор Рыбаков
+1 CHAN
+2 DATE 28 FEB 2025
+3 TIME 00:02:54
 0 TRLR
