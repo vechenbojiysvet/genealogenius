@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 28 FEB 2025
-2 TIME 00:29:12
+1 DATE 14 MAR 2025
+2 TIME 12:33:18
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -499,6 +499,7 @@
 4 LONG E37.347045
 2 ADDR
 3 CTRY Россия
+2 OBJE @O0174@
 1 _MILT
 2 DATE FROM 14 APR 1970 TO 13 OCT 1970
 2 PLAC Кубинка, Москва и МО, Россия
@@ -681,6 +682,7 @@
 4 LONG E37.347045
 2 ADDR
 3 CTRY Россия
+2 OBJE @O0174@
 1 FACT мочевого пузыря
 2 TYPE рак
 1 FAMC @F0021@
@@ -699,26 +701,34 @@
 2 DATE 27 FEB 2025
 3 TIME 14:38:23
 0 @I0014@ INDI
-1 NAME Макар /Чёрный/
+1 NAME Макар /Чёрный/ Павлович
 2 TYPE birth
 2 GIVN Макар
 2 SURN Чёрный
+2 NSFX Павлович
 1 SEX M
+1 DEAT
+2 DATE 1953
+1 FAMC @F0033@
+2 PEDI birth
 1 FAMS @F0006@
+1 OBJE @O0175@
 1 NOTE @N0006@
 1 CHAN
-2 DATE 14 NOV 2024
-3 TIME 01:48:39
+2 DATE 14 MAR 2025
+3 TIME 01:04:22
 0 @I0015@ INDI
 1 NAME Мария //
 2 TYPE birth
 2 GIVN Мария
 1 SEX F
+1 DEAT
+2 DATE ABT JAN 1926
 1 FAMS @F0006@
 1 NOTE @N0007@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 00:53:05
+2 DATE 9 MAR 2025
+3 TIME 22:34:20
 0 @I0016@ INDI
 1 NAME Елена /Чёрная/ Макаровна
 2 TYPE birth
@@ -726,12 +736,16 @@
 2 SURN Чёрная
 2 NSFX Макаровна
 1 SEX F
+1 BIRT
+2 DATE 2 AUG 1923
+1 DEAT
+2 DATE 20 JAN 2007
 1 FAMC @F0006@
 2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:59:39
+2 DATE 9 MAR 2025
+3 TIME 20:34:05
 0 @I0017@ INDI
 1 NAME Николай /Астафуров/ Андреевич
 2 TYPE birth
@@ -1258,15 +1272,22 @@
 2 DATE 27 FEB 2025
 3 TIME 21:36:39
 0 @I0046@ INDI
-1 NAME Иван /Кантонистый/
+1 NAME Иван /Кантонистый/ Семёнович
 2 TYPE birth
 2 GIVN Иван
 2 SURN Кантонистый
+2 NSFX Семёнович
 1 SEX M
+1 BIRT
+2 DATE 6 SEP 1919
+1 DEAT
+2 TYPE или 21
+2 DATE 20 NOV 1975
 1 FAMS @F0016@
+1 OBJE @O0176@
 1 CHAN
-2 DATE 12 NOV 2024
-3 TIME 21:56:28
+2 DATE 14 MAR 2025
+3 TIME 01:05:02
 0 @I0047@ INDI
 1 NAME Владимир /Кантонистый/ Иванович
 2 TYPE birth
@@ -1532,18 +1553,6 @@
 1 CHAN
 2 DATE 24 FEB 2025
 3 TIME 01:05:44
-0 @I0065@ INDI
-1 NAME Алексей /Попов/ Владимирович
-2 TYPE birth
-2 GIVN Алексей
-2 SURN Попов
-2 NSFX Владимирович
-1 SEX M
-1 FAMC @F0025@
-2 PEDI birth
-1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 15:00:40
 0 @I0066@ INDI
 1 NAME Нина /Литовская/ Ивановна
 2 TYPE birth
@@ -1655,9 +1664,12 @@
 2 DATE 1892
 1 FAMS @F0028@
 1 OBJE @O0160@
+1 OBJE
+2 FORM URL
+2 FILE https://ru.openlist.wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0_(1892)
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 21:35:35
+2 DATE 28 FEB 2025
+3 TIME 00:46:42
 0 @I0071@ INDI
 1 NAME Татьяна /Клименко/
 2 TYPE birth
@@ -1964,10 +1976,10 @@
 2 DATE 27 FEB 2025
 3 TIME 15:56:23
 0 @I0092@ INDI
-1 NAME Ольга /Попов/ Алексеевна
+1 NAME Ольга /Попова/ Алексеевна
 2 TYPE birth
 2 GIVN Ольга
-2 SURN Попов
+2 SURN Попова
 2 NSFX Алексеевна
 1 SEX F
 1 BIRT
@@ -1975,8 +1987,20 @@
 1 FAMC @F0032@
 2 PEDI birth
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:56:23
+2 DATE 28 FEB 2025
+3 TIME 00:42:27
+0 @I0093@ INDI
+1 NAME Павло /Чёрный/
+2 TYPE birth
+2 GIVN Павло
+2 SURN Чёрный
+2 _RUFNAME Павел
+1 SEX M
+1 FAMS @F0033@
+1 NOTE @N0052@
+1 CHAN
+2 DATE 9 MAR 2025
+3 TIME 20:38:03
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -2167,10 +2191,9 @@
 3 TIME 01:05:44
 0 @F0025@ FAM
 1 HUSB @I0036@
-1 CHIL @I0065@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 15:00:40
+2 DATE 28 FEB 2025
+3 TIME 00:37:27
 0 @F0026@ FAM
 1 HUSB @I0067@
 1 WIFE @I0066@
@@ -2232,6 +2255,12 @@
 1 CHAN
 2 DATE 27 FEB 2025
 3 TIME 15:56:23
+0 @F0033@ FAM
+1 HUSB @I0093@
+1 CHIL @I0014@
+1 CHAN
+2 DATE 9 MAR 2025
+3 TIME 20:38:03
 0 @S0000@ SOUR
 1 TITL стихотворение
 1 AUTH Людмила Разумовская
@@ -2376,7 +2405,8 @@
 1 CONT Люберецкая средняя школа номер 9, город Люберцы 1979-1987
 1 CONT Московское медицинское училище номер 2 им. Клары Цеткин 1988-1991
 1 CONT Московский медицинский стоматологический институт 1991-1997
-0 @N0033@ NOTE младший брат Раисы. "женился на еврейке, объевреился"
+0 @N0033@ NOTE младший брат Раисы. "женился на еврейке, объевреился" — Вера и мама
+1 CONT похоронен в Белой Калитве
 0 @N0034@ NOTE был директором на заводе стали, умер в 45 лет от онкологии желудка
 1 CONC , "была дичайшая изжога, всегда носил с собой пачку соды, но к врачам н
 1 CONC е обращался" Марина
@@ -2499,6 +2529,7 @@
 1 CONC епил лошадиную морду, причём не абстрактную, а конкретного коня... но эт
 1 CONC о ладно, он в машине Ладе вместо эмблемы ладьи выточил Бабу Ягу на метле
 1 CONC " — Наталия 
+0 @N0052@ NOTE родом из соседнего села, женился в селе Варовцы, было 4 детей
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -3720,4 +3751,25 @@
 1 CHAN
 2 DATE 28 FEB 2025
 3 TIME 00:02:54
+0 @O0174@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/участок на Митинском.jpg
+2 FORM jpg
+2 TITL участок на Митинском
+1 CHAN
+2 DATE 28 FEB 2025
+3 TIME 00:40:43
+0 @O0175@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/дед Макар с Марией четвёртой.jpg
+2 FORM jpg
+2 TITL дед Макар с Марией четвёртой
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 01:04:19
+0 @O0176@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Иван Семёнович.jpg
+2 FORM jpg
+2 TITL Иван Семёнович
+1 CHAN
+2 DATE 14 MAR 2025
+3 TIME 01:05:01
 0 TRLR
