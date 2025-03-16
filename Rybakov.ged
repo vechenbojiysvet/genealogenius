@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 14 MAR 2025
-2 TIME 12:33:18
+1 DATE 16 MAR 2025
+2 TIME 03:13:57
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -707,6 +707,8 @@
 2 SURN Чёрный
 2 NSFX Павлович
 1 SEX M
+1 BIRT
+2 DATE ABT 1897
 1 DEAT
 2 DATE 1953
 1 FAMC @F0033@
@@ -716,7 +718,7 @@
 1 NOTE @N0006@
 1 CHAN
 2 DATE 14 MAR 2025
-3 TIME 01:04:22
+3 TIME 15:55:56
 0 @I0015@ INDI
 1 NAME Мария //
 2 TYPE birth
@@ -1295,11 +1297,19 @@
 2 SURN Кантонистый
 2 NSFX Иванович
 1 SEX M
+1 BIRT
+2 DATE 23 AUG 1948
+2 PLAC село Варовцы, Городокский район, Хмельницкая область, Украина
+3 MAP
+4 LATI N49.331233
+4 LONG E26.563575
+2 ADDR
+3 CTRY Украина
 1 FAMC @F0016@
 2 PEDI birth
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:54:44
+2 DATE 14 MAR 2025
+3 TIME 19:52:24
 0 @I0048@ INDI
 1 NAME Иван /Савченко/ Леонтьевич
 2 TYPE birth
@@ -1914,13 +1924,14 @@
 1 BIRT
 2 DATE 11 JUN 1920
 1 DEAT
-2 DATE ABT 1995
+2 DATE 1991
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0031@
+1 OBJE @O0177@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:49:45
+2 DATE 16 MAR 2025
+3 TIME 03:00:33
 0 @I0088@ INDI
 1 NAME Иосиф /Попов/ Борисович
 2 TYPE birth
@@ -1928,10 +1939,15 @@
 2 SURN Попов
 2 NSFX Борисович
 1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1992
 1 FAMS @F0031@
+1 OBJE @O0177@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:49:45
+2 DATE 16 MAR 2025
+3 TIME 03:01:12
 0 @I0089@ INDI
 1 NAME Алексей /Попов/ Иосифович
 2 TYPE birth
@@ -1946,8 +1962,8 @@
 1 FAMS @F0032@
 1 OBJE @O0172@
 1 CHAN
-2 DATE 28 FEB 2025
-3 TIME 00:00:06
+2 DATE 16 MAR 2025
+3 TIME 03:05:12
 0 @I0090@ INDI
 1 NAME Тамара /-/ Викторовна
 2 TYPE birth
@@ -2243,10 +2259,18 @@
 0 @F0031@ FAM
 1 HUSB @I0088@
 1 WIFE @I0087@
+1 EVEN участок номер 68
+2 TYPE Burial
+2 PLAC Домодедовское кладбище, Москва и МО, Россия
+3 MAP
+4 LATI N55.461991
+4 LONG E37.890578
+2 ADDR
+3 CTRY Россия
 1 CHIL @I0089@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:49:45
+2 DATE 16 MAR 2025
+3 TIME 03:05:12
 0 @F0032@ FAM
 1 HUSB @I0089@
 1 WIFE @I0090@
@@ -2530,6 +2554,7 @@
 1 CONC о ладно, он в машине Ладе вместо эмблемы ладьи выточил Бабу Ягу на метле
 1 CONC " — Наталия 
 0 @N0052@ NOTE родом из соседнего села, женился в селе Варовцы, было 4 детей
+0 @N0053@ NOTE участок номер 68
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -3772,4 +3797,11 @@
 1 CHAN
 2 DATE 14 MAR 2025
 3 TIME 01:05:01
+0 @O0177@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Поповы.jpg
+2 FORM jpg
+2 TITL Поповы
+1 CHAN
+2 DATE 16 MAR 2025
+3 TIME 02:59:53
 0 TRLR
