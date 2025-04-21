@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 16 MAR 2025
-2 TIME 03:13:57
+1 DATE 21 APR 2025
+2 TIME 19:31:52
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -160,6 +160,7 @@
 2 ADDR
 3 CITY Харьков
 3 CTRY Украина
+2 OBJE @O0178@
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0000@
@@ -191,12 +192,14 @@
 1 OBJE @O0122@
 1 OBJE @O0123@
 1 OBJE @O0047@
+1 OBJE @O0179@
+1 OBJE @O0180@
 1 OBJE
 2 FORM URL
 2 FILE https://youtu.be/fUgk2Qny91o
 1 CHAN
-2 DATE 28 FEB 2025
-3 TIME 00:06:07
+2 DATE 24 MAR 2025
+3 TIME 15:17:30
 0 @I0004@ INDI
 1 NAME Валерий /Сизоненко/ Никитич
 2 TYPE birth
@@ -376,10 +379,11 @@
 2 DATE 14 JUN 2001
 2 PLAC Николо-Архангельское кладбище, Москва и МО, Россия
 3 MAP
-4 LATI N55.744243
-4 LONG E37.895347
+4 LATI N55.74362
+4 LONG E37.89109
 2 ADDR
 3 CTRY Россия
+2 OBJE @O0183@
 1 EDUC эвакуация института в Сталинабаде Одесский технологический институт конс
 2 CONC ервной промышленности, специальность Инженер-технолог
 2 DATE FROM 1942 TO 1943
@@ -419,10 +423,11 @@
 1 OBJE @O0124@
 1 OBJE @O0125@
 1 OBJE @O0126@
+1 OBJE @O0180@
 1 NOTE @N0025@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:52:55
+2 DATE 24 MAR 2025
+3 TIME 15:19:21
 0 @I0008@ INDI
 1 NAME Иван /Чёрный/ Макарович
 2 TYPE birth
@@ -450,7 +455,7 @@
 1 FAMC @F0006@
 2 PEDI birth
 1 FAMS @F0002@
-1 OBJE @O0013@
+1 OBJE @O0181@
 1 OBJE @O0132@
 1 OBJE @O0047@
 1 OBJE @O0074@
@@ -462,10 +467,11 @@
 1 OBJE @O0128@
 1 OBJE @O0129@
 1 OBJE @O0130@
+1 OBJE @O0180@
 1 NOTE @N0026@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:59:49
+2 DATE 24 MAR 2025
+3 TIME 15:22:59
 0 @I0009@ INDI
 1 NAME Виктор /Рыбаков/ Сергеевич
 2 TYPE birth
@@ -745,9 +751,10 @@
 1 FAMC @F0006@
 2 PEDI birth
 1 FAMS @F0016@
+1 OBJE @O0182@
 1 CHAN
-2 DATE 9 MAR 2025
-3 TIME 20:34:05
+2 DATE 24 MAR 2025
+3 TIME 15:21:29
 0 @I0017@ INDI
 1 NAME Николай /Астафуров/ Андреевич
 2 TYPE birth
@@ -814,10 +821,11 @@
 1 OBJE @O0048@
 1 OBJE @O0080@
 1 OBJE @O0112@
+1 OBJE @O0185@
 1 NOTE @N0009@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:58:10
+2 DATE 21 APR 2025
+3 TIME 19:28:47
 0 @I0019@ INDI
 1 NAME Фёдор /Астафуров/ Николаевич
 2 TYPE birth
@@ -1287,9 +1295,10 @@
 2 DATE 20 NOV 1975
 1 FAMS @F0016@
 1 OBJE @O0176@
+1 OBJE @O0182@
 1 CHAN
-2 DATE 14 MAR 2025
-3 TIME 01:05:02
+2 DATE 24 MAR 2025
+3 TIME 15:22:02
 0 @I0047@ INDI
 1 NAME Владимир /Кантонистый/ Иванович
 2 TYPE birth
@@ -1336,10 +1345,11 @@
 2 NSFX Ивановна
 1 SEX F
 1 FAMS @F0014@
+1 OBJE @O0184@
 1 OBJE @O0110@
 1 CHAN
-2 DATE 24 FEB 2025
-3 TIME 00:51:30
+2 DATE 21 APR 2025
+3 TIME 19:27:58
 0 @I0050@ INDI
 1 NAME Галина /--/
 2 TYPE birth
@@ -3804,4 +3814,60 @@
 1 CHAN
 2 DATE 16 MAR 2025
 3 TIME 02:59:53
+0 @O0178@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Рождение Веры.jpg
+2 FORM jpg
+2 TITL Рождение Веры
+1 CHAN
+2 DATE 24 MAR 2025
+3 TIME 15:16:36
+0 @O0179@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Вера на Авроре после 9 класса.jpg
+2 FORM jpg
+2 TITL Вера на Авроре после 9 класса
+1 CHAN
+2 DATE 24 MAR 2025
+3 TIME 15:16:58
+0 @O0180@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Иван Елизавета Вера.jpg
+2 FORM jpg
+2 TITL Иван Елизавета Вера
+1 CHAN
+2 DATE 24 MAR 2025
+3 TIME 15:17:12
+0 @O0181@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Чёрный Иван.jpg
+2 FORM jpg
+2 TITL Чёрный Иван
+1 CHAN
+2 DATE 24 MAR 2025
+3 TIME 15:20:27
+0 @O0182@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Елена Чёрная и Иван.jpg
+2 FORM jpg
+2 TITL Елена Чёрная и Иван
+1 CHAN
+2 DATE 24 MAR 2025
+3 TIME 15:21:25
+0 @O0183@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/могила апрель 2025 после небольшого марафета (потом приберу ещё).jpg
+2 FORM jpg
+2 TITL могила апрель 2025 после небольшого марафета (потом приберу ещё)
+1 CHAN
+2 DATE 21 APR 2025
+3 TIME 19:12:43
+0 @O0184@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/семейный портрет.jpg
+2 FORM jpg
+2 TITL семейный портрет
+1 CHAN
+2 DATE 21 APR 2025
+3 TIME 19:27:51
+0 @O0185@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/прабабушка молодая.jpg
+2 FORM jpg
+2 TITL прабабушка молодая
+1 CHAN
+2 DATE 21 APR 2025
+3 TIME 19:28:40
 0 TRLR

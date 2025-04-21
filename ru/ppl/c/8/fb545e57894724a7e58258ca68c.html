@@ -22,6 +22,8 @@
 	<link href="../../../../css/Mainz.css" media="screen" rel="alternate stylesheet" title="Майнц" type="text/css" />
 	<link href="../../../../css/Nebraska.css" media="screen" rel="alternate stylesheet" title="Небраска" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
+	<link href="../../../../css/lightbox.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="../../../../css/lightbox.js" type="text/javascript"></script>
 </head>
 <body dir="ltr">
 	<div id="outerwrapper">
@@ -82,6 +84,13 @@ function GoToTop() {
 </script>
 
 		<div class="content" id="IndividualDetail">
+			<div class="snapshot">
+				<div class="thumbnail">
+					<a href="../../../../ru/img/a/3/fd9d1017c7d401439835c04a3a.html" title="Елена Чёрная и Иван">
+						<img alt="Елена Чёрная и Иван" src="../../../../thumb/a/3/fd9d1017c7d401439835c04a3a15,11-51,74.png" />
+					</a>
+				</div>
+			</div>
 			<h3>Елена Макаровна Чёрная<sup><small></small></sup></h3>
 			<div id="summaryarea">
 				<table class="infolist">
@@ -225,6 +234,38 @@ function GoToTop() {
 					</tr>
 				</table>
 			</div>
+			<div class="subsection" id="indivgallery">
+				<h4>Альбом</h4>
+				<div id="toggle_media" style="display:block">
+					<div class="MediaRow">
+						<div class="MediaColumn ltr">
+							<img class="hover-shadow" onclick="openModal();currentSlide(1)" src="../../../../thumb/a/3/fd9d1017c7d401439835c04a3a.png" />
+						</div>
+					</div>
+					<div class="ModalClass" id="MediaModal">
+						<span class="MediaClose MediaCursor" onclick="closeModal()">&times;</span>
+						<div class="ModalContent">
+							<a class="MediaPrev" onclick="plusSlides(-1)">
+							&#10094;
+							</a>
+							<a class="MediaNext" onclick="plusSlides(1)">
+							&#10095;
+							</a>
+							<div class="MediaSlide">
+								<div class="MediaNumber">
+								1/1 - Елена Чёрная и Иван
+								</div>
+								<a href="../../../../ru/img/a/3/fd9d1017c7d401439835c04a3a.html">
+									<img src="../../../../images/a/3/fd9d1017c7d401439835c04a3a.jpg" style="width:100%" />
+								</a>
+							</div>
+						</div>
+					</div>
+					<div id="medias">
+					</div>
+				</div>
+				<div class="fullclear"></div>
+			</div>
 			<div class="subsection" id="pedigree">
 				<h4>Родословная</h4>
 				<ol class="pedigreegen" id="toggle_pedigree" style="display:block">
@@ -261,8 +302,17 @@ function GoToTop() {
 				<div class="tree" id="toggle_anc" style="display:block">
 					<div id="treeContainer" style="width:924px; height:300px; top: 0px">
 						<div class="boxbg female AncCol0" style="top: 80px; left: 6px;">
-							<a class="noThumb" href="../../../ppl/c/8/fb545e57894724a7e58258ca68c.html">
-							Елена Макаровна Чёрная<br>*2 августа 1923<br>+20 января 2007
+							<a class="thumbnail" href="../../../ppl/c/8/fb545e57894724a7e58258ca68c.html">
+								<table class="table">
+									<tr>
+										<td class="img">
+											<img alt="Img: Елена Макаровна Чёрная" src="../../../../thumb/a/3/fd9d1017c7d401439835c04a3a15,11-51,74.png" />
+										</td>
+										<td class="name">
+										Елена Макаровна Чёрная<br>*2 августа 1923<br>+20 января 2007
+										</td>
+									</tr>
+								</table>
 							</a>
 						</div>
 						<div class="shadow" style="top: 85px; left: 10px;"></div>
@@ -323,7 +373,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Создано с помощью <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Последнее изменение было сделано 2025-03-09 20:34:05
+			Создано с помощью <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Последнее изменение было сделано 2025-03-24 15:21:29
 			</p>
 			<p id="copyright">
 			

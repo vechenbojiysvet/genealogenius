@@ -92,11 +92,11 @@ function GoToTop() {
 					<tbody>
 						<tr>
 							<td class="ColumnAttribute">Широта</td>
-							<td class="ColumnValue">55°44'39.27"С</td>
+							<td class="ColumnValue">55°44'37.03"С</td>
 						</tr>
 						<tr>
 							<td class="ColumnAttribute">Долгота</td>
-							<td class="ColumnValue">37°53'43.25"В</td>
+							<td class="ColumnValue">37°53'27.92"В</td>
 						</tr>
 						<tr>
 							<td class="ColumnAttribute">Провинция</td>
@@ -151,7 +151,7 @@ function GoToTop() {
 		
   window.addEventListener("load", function() {
     var map;
-    var tracelife = [[37.895347, 55.744243, 'Николо-Архангельское кладбище, Москва и МО, Россия', ' ']];
+    var tracelife = [[37.89109, 55.74362, 'Николо-Архангельское кладбище, Москва и МО, Россия', ' ']];
     var iconStyle = new ol.style.Style({
       image: new ol.style.Icon(({
         anchor: [0.2, 48],
@@ -182,7 +182,7 @@ function GoToTop() {
       source: markerSource,
       style: iconStyle
     });
-    var centerCoord = new ol.proj.transform([37.89534700, 55.74424300], 'EPSG:4326', 'EPSG:3857');
+    var centerCoord = new ol.proj.transform([37.89109000, 55.74362000], 'EPSG:4326', 'EPSG:3857');
     map = new ol.Map({
                  target: 'map_canvas',
                  layers: [new ol.layer.Tile({ source: new ol.source.OSM() }),
@@ -267,7 +267,7 @@ function GoToTop() {
 				</div>
 			</div>
 			<p id="createdate">
-			Создано с помощью <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Последнее изменение было сделано 2025-02-14 01:42:13
+			Создано с помощью <a href="http://gramps-project.org/">Gramps</a> 5.2.3<br />Последнее изменение было сделано 2025-04-21 19:13:45
 			</p>
 			<p id="copyright">
 			
