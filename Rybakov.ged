@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.2.3
 2 NAME Gramps
-1 DATE 21 APR 2025
-2 TIME 19:31:52
+1 DATE 7 JUN 2025
+2 TIME 17:46:03
 1 SUBM @SUBM@
 1 FILE /Users/Zlato4ka/Desktop/апдейтъ/Rybakov.ged
 1 COPR Copyright (c) 2025 .
@@ -572,9 +572,10 @@
 1 OBJE @O0060@
 1 OBJE @O0072@
 1 OBJE @O0173@
+1 OBJE @O0190@
 1 CHAN
-2 DATE 28 FEB 2025
-3 TIME 00:02:59
+2 DATE 7 JUN 2025
+3 TIME 17:28:13
 0 @I0010@ INDI
 1 NAME Раиса /Попова/ Алексеевна
 2 TYPE birth
@@ -621,13 +622,17 @@
 2 PEDI birth
 1 FAMS @F0004@
 1 OBJE @O0006@
+1 OBJE @O0187@
 1 OBJE @O0018@
 1 OBJE @O0154@
 1 OBJE @O0172@
+1 OBJE @O0188@
+1 OBJE @O0190@
+1 OBJE @O0103@
 1 NOTE @N0002@
 1 CHAN
-2 DATE 28 FEB 2025
-3 TIME 00:00:58
+2 DATE 7 JUN 2025
+3 TIME 17:00:16
 0 @I0011@ INDI
 1 NAME Алексей /Попов/ Кузьмич
 2 TYPE birth
@@ -636,10 +641,13 @@
 2 NSFX Кузьмич
 1 SEX M
 1 FAMS @F0005@
+1 OBJE @O0193@
+1 OBJE @O0192@
+1 OBJE @O0190@
 1 NOTE @N0003@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:42:37
+2 DATE 7 JUN 2025
+3 TIME 16:46:36
 0 @I0012@ INDI
 1 NAME Александра /Чернавская/ Ивановна
 2 TYPE birth
@@ -654,10 +662,13 @@
 1 OBJE @O0015@
 1 OBJE @O0016@
 1 OBJE @O0017@
+1 OBJE @O0193@
+1 OBJE @O0190@
+1 OBJE @O0192@
 1 NOTE @N0004@
 1 CHAN
-2 DATE 26 FEB 2025
-3 TIME 21:41:10
+2 DATE 7 JUN 2025
+3 TIME 16:48:30
 0 @I0013@ INDI
 1 NAME Сергей /Рыбаков/ Васильевич
 2 TYPE birth
@@ -1071,15 +1082,21 @@
 2 NSFX Алексеевич
 1 SEX M
 1 BIRT
-2 DATE 1928
+2 DATE 6 DEC 1927
+1 DEAT
+2 DATE 23 MAR 2005
 1 FAMC @F0005@
 2 PEDI birth
 1 FAMS @F0025@
+1 FAMS @F0034@
+1 OBJE @O0193@
 1 OBJE @O0017@
+1 OBJE @O0188@
+1 OBJE @O0192@
 1 NOTE @N0033@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:42:34
+2 DATE 7 JUN 2025
+3 TIME 16:50:33
 0 @I0037@ INDI
 1 NAME Елена /Сизоненко/ Никитична
 2 TYPE birth
@@ -1932,6 +1949,7 @@
 2 NSFX Алексеевна
 1 SEX F
 1 BIRT
+2 TYPE в документах 15 июня записано
 2 DATE 11 JUN 1920
 1 DEAT
 2 DATE 1991
@@ -1939,9 +1957,10 @@
 2 PEDI birth
 1 FAMS @F0031@
 1 OBJE @O0177@
+1 OBJE @O0188@
 1 CHAN
-2 DATE 16 MAR 2025
-3 TIME 03:00:33
+2 DATE 7 JUN 2025
+3 TIME 16:37:57
 0 @I0088@ INDI
 1 NAME Иосиф /Попов/ Борисович
 2 TYPE birth
@@ -1955,9 +1974,12 @@
 2 DATE 1992
 1 FAMS @F0031@
 1 OBJE @O0177@
+1 OBJE @O0189@
+1 OBJE @O0191@
+1 NOTE @N0054@
 1 CHAN
-2 DATE 16 MAR 2025
-3 TIME 03:01:12
+2 DATE 7 JUN 2025
+3 TIME 16:44:43
 0 @I0089@ INDI
 1 NAME Алексей /Попов/ Иосифович
 2 TYPE birth
@@ -1966,14 +1988,17 @@
 2 NSFX Иосифович
 1 SEX M
 1 BIRT
-2 DATE 1947
+2 DATE 1 AUG 1947
+1 _MILT
+2 DATE BET 27 JUN 1966 AND 1968
 1 FAMC @F0031@
 2 PEDI birth
 1 FAMS @F0032@
 1 OBJE @O0172@
+1 OBJE @O0189@
 1 CHAN
-2 DATE 16 MAR 2025
-3 TIME 03:05:12
+2 DATE 7 JUN 2025
+3 TIME 16:39:14
 0 @I0090@ INDI
 1 NAME Тамара /-/ Викторовна
 2 TYPE birth
@@ -1984,9 +2009,11 @@
 1 BIRT
 2 DATE 1946
 1 FAMS @F0032@
+1 OBJE @O0186@
+1 OBJE @O0189@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:56:56
+2 DATE 7 JUN 2025
+3 TIME 16:39:37
 0 @I0091@ INDI
 1 NAME Татьяна /Попова/ Алексеевна
 2 TYPE birth
@@ -1999,8 +2026,8 @@
 1 FAMC @F0032@
 2 PEDI birth
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:56:23
+2 DATE 1 JAN 2018
+3 TIME 03:21:58
 0 @I0092@ INDI
 1 NAME Ольга /Попова/ Алексеевна
 2 TYPE birth
@@ -2013,8 +2040,8 @@
 1 FAMC @F0032@
 2 PEDI birth
 1 CHAN
-2 DATE 28 FEB 2025
-3 TIME 00:42:27
+2 DATE 1 JAN 2018
+3 TIME 03:21:58
 0 @I0093@ INDI
 1 NAME Павло /Чёрный/
 2 TYPE birth
@@ -2027,6 +2054,52 @@
 1 CHAN
 2 DATE 9 MAR 2025
 3 TIME 20:38:03
+0 @I0094@ INDI
+1 NAME Ольга /--/ Александровна
+2 TYPE birth
+2 GIVN Ольга
+2 SPFX --
+2 NSFX Александровна
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1935
+1 DEAT
+2 DATE 18 JUL 2014
+1 FAMS @F0034@
+1 FAMS @F0035@
+1 OBJE @O0192@
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:49:06
+0 @I0095@ INDI
+1 NAME Сергей /Попов/ Владимирович
+2 TYPE birth
+2 GIVN Сергей
+2 SURN Попов
+2 NSFX Владимирович
+1 SEX M
+1 BIRT
+2 DATE 8 OCT 1957
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0035@
+1 OBJE @O0189@
+1 NOTE @N0055@
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:41:26
+0 @I0096@ INDI
+1 NAME Наталия /Попова/
+2 TYPE birth
+2 GIVN Наталия
+2 SURN Попова
+1 SEX F
+1 FAMC @F0031@
+2 PEDI birth
+1 NOTE @N0056@
+1 CHAN
+2 DATE 1 JAN 2018
+3 TIME 03:25:06
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0003@
@@ -2278,23 +2351,39 @@
 2 ADDR
 3 CTRY Россия
 1 CHIL @I0089@
+1 CHIL @I0096@
 1 CHAN
-2 DATE 16 MAR 2025
-3 TIME 03:05:12
+2 DATE 1 JAN 2018
+3 TIME 03:25:06
 0 @F0032@ FAM
 1 HUSB @I0089@
 1 WIFE @I0090@
+1 MARR
+2 DATE 24 DEC 1977
 1 CHIL @I0091@
 1 CHIL @I0092@
 1 CHAN
-2 DATE 27 FEB 2025
-3 TIME 15:56:23
+2 DATE 1 JAN 2018
+3 TIME 03:21:58
 0 @F0033@ FAM
 1 HUSB @I0093@
 1 CHIL @I0014@
 1 CHAN
 2 DATE 9 MAR 2025
 3 TIME 20:38:03
+0 @F0034@ FAM
+1 HUSB @I0036@
+1 WIFE @I0094@
+1 CHIL @I0095@
+1 CHAN
+2 DATE 1 JAN 2018
+3 TIME 03:20:08
+0 @F0035@ FAM
+1 HUSB @I0095@
+1 WIFE @I0094@
+1 CHAN
+2 DATE 1 JAN 2018
+3 TIME 03:35:39
 0 @S0000@ SOUR
 1 TITL стихотворение
 1 AUTH Людмила Разумовская
@@ -2341,11 +2430,17 @@
 1 CONC ы не убили. Сохранила только фотографию матери, вшила её в матрас. расти
 1 CONC ла брата Алексея. позже мужчина сильно старше её вычислил, что она не та
 1 CONC , за кого себя выдаёт, сватался ей, о дальнейшей судьбе не знаю
+1 CONT 
+1 CONT был первый муж, 18 лет хотела детей, не было, развелась и вышла замуж з
+1 CONC а деда, родился Витя, его холила-лелеяла
+1 CONT 
 0 @N0003@ NOTE конезаводчик
 0 @N0004@ NOTE жили в станице в Ростовской области, была Польской княгиней, похище
 1 CONC на?
 1 CONT возможно, адрес Крестьянская, 17 Белая Калитва
 1 CONT на начало 1971 была жива
+1 CONT дядя Лёша с тётей Тамарой говорят, что они произносили фамилию как ЧернЯ
+1 CONC вская
 0 @N0005@ NOTE москвич! прошёл две войны, вернулся с кучей трофеев. у него было пя
 1 CONC ть сестёр, он младший брат, не любили Раю, оставили его без наследства (
 1 CONC информация конечно же не проверена) — Вера и мама
@@ -2441,6 +2536,7 @@
 1 CONT Московский медицинский стоматологический институт 1991-1997
 0 @N0033@ NOTE младший брат Раисы. "женился на еврейке, объевреился" — Вера и мама
 1 CONT похоронен в Белой Калитве
+1 CONT военный лётчик, погодой занимался, служил в Польше много лет — д. Лёша
 0 @N0034@ NOTE был директором на заводе стали, умер в 45 лет от онкологии желудка
 1 CONC , "была дичайшая изжога, всегда носил с собой пачку соды, но к врачам н
 1 CONC е обращался" Марина
@@ -2565,6 +2661,10 @@
 1 CONC " — Наталия 
 0 @N0052@ NOTE родом из соседнего села, женился в селе Варовцы, было 4 детей
 0 @N0053@ NOTE участок номер 68
+0 @N0054@ NOTE у моего отца было три брата: он, дядя Володя, дядя Миша и дядя Матв
+1 CONC ей — слова дяди Лёши
+0 @N0055@ NOTE живёт под Раменским
+0 @N0056@ NOTE живёт на Константина Федина, 13
 0 @O0000@ OBJE
 1 FILE /Users/Zlato4ka/Pictures/2024-09-27 17.37.46.jpg
 2 FORM jpg
@@ -3870,4 +3970,60 @@
 1 CHAN
 2 DATE 21 APR 2025
 3 TIME 19:28:40
+0 @O0186@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Тамара Викторовна.jpg
+2 FORM jpg
+2 TITL Тамара Викторовна
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:34:36
+0 @O0187@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Раиса Алексеевна.jpg
+2 FORM jpg
+2 TITL Раиса Алексеевна
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:36:04
+0 @O0188@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/сиблинги Поповы.jpg
+2 FORM jpg
+2 TITL сиблинги Поповы
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:36:34
+0 @O0189@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Поповы и др.jpg
+2 FORM jpg
+2 TITL Поповы и др
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:38:46
+0 @O0190@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Поповы 25 июля 1956.jpg
+2 FORM jpg
+2 TITL Поповы 25 июля 1956
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:44:09
+0 @O0191@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Иосиф Борисович, братья и мама звезда еврейского театра.jpg
+2 FORM jpg
+2 TITL Иосиф Борисович, братья и мама звезда еврейского театра
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:44:38
+0 @O0192@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Поповы и Ольга.jpg
+2 FORM jpg
+2 TITL Поповы и Ольга
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:46:06
+0 @O0193@ OBJE
+1 FILE /Users/Zlato4ka/Pictures/Семья/Поповы 12 марта 1953.jpg
+2 FORM jpg
+2 TITL Поповы 12 марта 1953
+1 CHAN
+2 DATE 7 JUN 2025
+3 TIME 16:46:25
 0 TRLR
